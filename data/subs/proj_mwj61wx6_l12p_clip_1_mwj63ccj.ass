@@ -1,0 +1,72 @@
+[Script Info]
+Title: ClipReach AI Subtitles
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 1
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,DejaVu Sans,56,&H00F8FAFC,&H00F5A58B,&H00101018,&H66000000,0,0,0,0,100,100,0,0,1,3,2,5,70,70,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.53,Default,,0,0,0,,{\c&H00F5A58B\fscx112\fscy112}Stop{\c&H00F8FAFC\fscx100\fscy100} posting {\c&H00F5A58B}60-minute{\c&H00F8FAFC} {\c&H00F5A58B}podcasts{\c&H00F8FAFC}
+Dialogue: 0,0:00:00.53,0:00:01.05,Default,,0,0,0,,{\c&H00F5A58B}Stop{\c&H00F8FAFC} {\c&H00F5A58B\fscx112\fscy112}posting{\c&H00F8FAFC\fscx100\fscy100} {\c&H00F5A58B}60-minute{\c&H00F8FAFC} {\c&H00F5A58B}podcasts{\c&H00F8FAFC}
+Dialogue: 0,0:00:01.05,0:00:01.58,Default,,0,0,0,,{\c&H00F5A58B}Stop{\c&H00F8FAFC} posting {\c&H00F5A58B\fscx112\fscy112}60-minute{\c&H00F8FAFC\fscx100\fscy100} {\c&H00F5A58B}podcasts{\c&H00F8FAFC}
+Dialogue: 0,0:00:01.58,0:00:02.10,Default,,0,0,0,,{\c&H00F5A58B}Stop{\c&H00F8FAFC} posting {\c&H00F5A58B}60-minute{\c&H00F8FAFC} {\c&H00F5A58B\fscx112\fscy112}podcasts{\c&H00F8FAFC\fscx100\fscy100}
+Dialogue: 0,0:00:02.10,0:00:02.54,Default,,0,0,0,,{\c&H00F5A58B\fscx112\fscy112}without{\c&H00F8FAFC\fscx100\fscy100} cutting {\c&H00F5A58B}vertical{\c&H00F8FAFC} {\c&H00F5A58B}hooks{\c&H00F8FAFC} {\c&H00F5A58B}first.{\c&H00F8FAFC}
+Dialogue: 0,0:00:02.54,0:00:02.98,Default,,0,0,0,,without {\c&H00F5A58B\fscx112\fscy112}cutting{\c&H00F8FAFC\fscx100\fscy100} {\c&H00F5A58B}vertical{\c&H00F8FAFC} {\c&H00F5A58B}hooks{\c&H00F8FAFC} {\c&H00F5A58B}first.{\c&H00F8FAFC}
+Dialogue: 0,0:00:02.98,0:00:03.41,Default,,0,0,0,,without cutting {\c&H00F5A58B\fscx112\fscy112}vertical{\c&H00F8FAFC\fscx100\fscy100} {\c&H00F5A58B}hooks{\c&H00F8FAFC} {\c&H00F5A58B}first.{\c&H00F8FAFC}
+Dialogue: 0,0:00:03.41,0:00:03.85,Default,,0,0,0,,without cutting {\c&H00F5A58B}vertical{\c&H00F8FAFC} {\c&H00F5A58B\fscx112\fscy112}hooks{\c&H00F8FAFC\fscx100\fscy100} {\c&H00F5A58B}first.{\c&H00F8FAFC}
+Dialogue: 0,0:00:03.85,0:00:04.29,Default,,0,0,0,,without cutting {\c&H00F5A58B}vertical{\c&H00F8FAFC} {\c&H00F5A58B}hooks{\c&H00F8FAFC} {\c&H00F5A58B\fscx112\fscy112}first.{\c&H00F8FAFC\fscx100\fscy100}
+Dialogue: 0,0:00:04.29,0:00:04.59,Default,,0,0,0,,{\c&H00F5A58B\fscx112\fscy112}Here{\c&H00F8FAFC\fscx100\fscy100} is the {\c&H00F5A58B}brutal{\c&H00F8FAFC} {\c&H00F5A58B}truth{\c&H00F8FAFC}
+Dialogue: 0,0:00:04.59,0:00:04.90,Default,,0,0,0,,Here {\c&H00F5A58B\fscx112\fscy112}is{\c&H00F8FAFC\fscx100\fscy100} the {\c&H00F5A58B}brutal{\c&H00F8FAFC} {\c&H00F5A58B}truth{\c&H00F8FAFC}
+Dialogue: 0,0:00:04.90,0:00:05.20,Default,,0,0,0,,Here is {\c&H00F5A58B\fscx112\fscy112}the{\c&H00F8FAFC\fscx100\fscy100} {\c&H00F5A58B}brutal{\c&H00F8FAFC} {\c&H00F5A58B}truth{\c&H00F8FAFC}
+Dialogue: 0,0:00:05.20,0:00:05.50,Default,,0,0,0,,Here is the {\c&H00F5A58B\fscx112\fscy112}brutal{\c&H00F8FAFC\fscx100\fscy100} {\c&H00F5A58B}truth{\c&H00F8FAFC}
+Dialogue: 0,0:00:05.50,0:00:05.79,Default,,0,0,0,,Here is the {\c&H00F5A58B}brutal{\c&H00F8FAFC} {\c&H00F5A58B\fscx112\fscy112}truth{\c&H00F8FAFC\fscx100\fscy100}
+Dialogue: 0,0:00:05.79,0:00:06.29,Default,,0,0,0,,{\c&H00F5A58B\fscx112\fscy112}most{\c&H00F8FAFC\fscx100\fscy100} {\c&H00F5A58B}creators{\c&H00F8FAFC} {\c&H00F5A58B}ignore.{\c&H00F8FAFC}
+Dialogue: 0,0:00:06.29,0:00:06.79,Default,,0,0,0,,most {\c&H00F5A58B\fscx112\fscy112}creators{\c&H00F8FAFC\fscx100\fscy100} {\c&H00F5A58B}ignore.{\c&H00F8FAFC}
+Dialogue: 0,0:00:06.79,0:00:07.29,Default,,0,0,0,,most {\c&H00F5A58B}creators{\c&H00F8FAFC} {\c&H00F5A58B\fscx112\fscy112}ignore.{\c&H00F8FAFC\fscx100\fscy100}
+Dialogue: 0,0:00:07.29,0:00:07.79,Default,,0,0,0,,{\c&H00F5A58B\fscx112\fscy112}90%{\c&H00F8FAFC\fscx100\fscy100} of your {\c&H00F5A58B}audience{\c&H00F8FAFC}
+Dialogue: 0,0:00:07.79,0:00:08.30,Default,,0,0,0,,{\c&H00F5A58B}90%{\c&H00F8FAFC} {\c&H00F5A58B\fscx112\fscy112}of{\c&H00F8FAFC\fscx100\fscy100} your {\c&H00F5A58B}audience{\c&H00F8FAFC}
+Dialogue: 0,0:00:08.30,0:00:08.80,Default,,0,0,0,,{\c&H00F5A58B}90%{\c&H00F8FAFC} of {\c&H00F5A58B\fscx112\fscy112}your{\c&H00F8FAFC\fscx100\fscy100} {\c&H00F5A58B}audience{\c&H00F8FAFC}
+Dialogue: 0,0:00:08.80,0:00:09.30,Default,,0,0,0,,{\c&H00F5A58B}90%{\c&H00F8FAFC} of your {\c&H00F5A58B\fscx112\fscy112}audience{\c&H00F8FAFC\fscx100\fscy100}
+Dialogue: 0,0:00:09.30,0:00:09.83,Default,,0,0,0,,{\c&H00F5A58B\fscx112\fscy112}decides{\c&H00F8FAFC\fscx100\fscy100} in {\c&H00F5A58B}two{\c&H00F8FAFC} {\c&H00F5A58B}seconds.{\c&H00F8FAFC}
+Dialogue: 0,0:00:09.83,0:00:10.34,Default,,0,0,0,,{\c&H00F5A58B}decides{\c&H00F8FAFC} {\c&H00F5A58B\fscx112\fscy112}in{\c&H00F8FAFC\fscx100\fscy100} {\c&H00F5A58B}two{\c&H00F8FAFC} {\c&H00F5A58B}seconds.{\c&H00F8FAFC}
+Dialogue: 0,0:00:10.34,0:00:10.88,Default,,0,0,0,,{\c&H00F5A58B}decides{\c&H00F8FAFC} in {\c&H00F5A58B\fscx112\fscy112}two{\c&H00F8FAFC\fscx100\fscy100} {\c&H00F5A58B}seconds.{\c&H00F8FAFC}
+Dialogue: 0,0:00:10.88,0:00:11.40,Default,,0,0,0,,{\c&H00F5A58B}decides{\c&H00F8FAFC} in {\c&H00F5A58B}two{\c&H00F8FAFC} {\c&H00F5A58B\fscx112\fscy112}seconds.{\c&H00F8FAFC\fscx100\fscy100}
+Dialogue: 0,0:00:11.40,0:00:11.85,Default,,0,0,0,,{\c&H00F5A58B\fscx112\fscy112}If{\c&H00F8FAFC\fscx100\fscy100} your {\c&H00F5A58B}opening{\c&H00F8FAFC} sounds {\c&H00F5A58B}slow,{\c&H00F8FAFC}
+Dialogue: 0,0:00:11.85,0:00:12.32,Default,,0,0,0,,If {\c&H00F5A58B\fscx112\fscy112}your{\c&H00F8FAFC\fscx100\fscy100} {\c&H00F5A58B}opening{\c&H00F8FAFC} sounds {\c&H00F5A58B}slow,{\c&H00F8FAFC}
+Dialogue: 0,0:00:12.32,0:00:12.77,Default,,0,0,0,,If your {\c&H00F5A58B\fscx112\fscy112}opening{\c&H00F8FAFC\fscx100\fscy100} sounds {\c&H00F5A58B}slow,{\c&H00F8FAFC}
+Dialogue: 0,0:00:12.77,0:00:13.24,Default,,0,0,0,,If your {\c&H00F5A58B}opening{\c&H00F8FAFC} {\c&H00F5A58B\fscx112\fscy112}sounds{\c&H00F8FAFC\fscx100\fscy100} {\c&H00F5A58B}slow,{\c&H00F8FAFC}
+Dialogue: 0,0:00:13.24,0:00:13.69,Default,,0,0,0,,If your {\c&H00F5A58B}opening{\c&H00F8FAFC} sounds {\c&H00F5A58B\fscx112\fscy112}slow,{\c&H00F8FAFC\fscx100\fscy100}
+Dialogue: 0,0:00:13.69,0:00:14.47,Default,,0,0,0,,{\c&H00F5A58B\fscx112\fscy112}viewers{\c&H00F8FAFC\fscx100\fscy100} {\c&H00F5A58B}swipe{\c&H00F8FAFC} {\c&H00F5A58B}immediately.{\c&H00F8FAFC}
+Dialogue: 0,0:00:14.47,0:00:15.23,Default,,0,0,0,,viewers {\c&H00F5A58B\fscx112\fscy112}swipe{\c&H00F8FAFC\fscx100\fscy100} {\c&H00F5A58B}immediately.{\c&H00F8FAFC}
+Dialogue: 0,0:00:15.23,0:00:16.00,Default,,0,0,0,,viewers {\c&H00F5A58B}swipe{\c&H00F8FAFC} {\c&H00F5A58B\fscx112\fscy112}immediately.{\c&H00F8FAFC\fscx100\fscy100}
+Dialogue: 0,0:00:16.00,0:00:16.50,Default,,0,0,0,,{\c&H00F5A58B\fscx112\fscy112}Open{\c&H00F8FAFC\fscx100\fscy100} with a {\c&H00F5A58B}contrarian{\c&H00F8FAFC} {\c&H00F5A58B}takeaway,{\c&H00F8FAFC}
+Dialogue: 0,0:00:16.50,0:00:17.00,Default,,0,0,0,,Open {\c&H00F5A58B\fscx112\fscy112}with{\c&H00F8FAFC\fscx100\fscy100} a {\c&H00F5A58B}contrarian{\c&H00F8FAFC} {\c&H00F5A58B}takeaway,{\c&H00F8FAFC}
+Dialogue: 0,0:00:17.00,0:00:17.50,Default,,0,0,0,,Open with {\c&H00F5A58B\fscx112\fscy112}a{\c&H00F8FAFC\fscx100\fscy100} {\c&H00F5A58B}contrarian{\c&H00F8FAFC} {\c&H00F5A58B}takeaway,{\c&H00F8FAFC}
+Dialogue: 0,0:00:17.50,0:00:18.00,Default,,0,0,0,,Open with a {\c&H00F5A58B\fscx112\fscy112}contrarian{\c&H00F8FAFC\fscx100\fscy100} {\c&H00F5A58B}takeaway,{\c&H00F8FAFC}
+Dialogue: 0,0:00:18.00,0:00:18.50,Default,,0,0,0,,Open with a {\c&H00F5A58B}contrarian{\c&H00F8FAFC} {\c&H00F5A58B\fscx112\fscy112}takeaway,{\c&H00F8FAFC\fscx100\fscy100}
+Dialogue: 0,0:00:18.50,0:00:19.01,Default,,0,0,0,,{\c&H00F5A58B\fscx112\fscy112}highlight{\c&H00F8FAFC\fscx100\fscy100} words with {\c&H00F5A58B}dynamic{\c&H00F8FAFC} {\c&H00F5A58B}captions,{\c&H00F8FAFC}
+Dialogue: 0,0:00:19.01,0:00:19.53,Default,,0,0,0,,highlight {\c&H00F5A58B\fscx112\fscy112}words{\c&H00F8FAFC\fscx100\fscy100} with {\c&H00F5A58B}dynamic{\c&H00F8FAFC} {\c&H00F5A58B}captions,{\c&H00F8FAFC}
+Dialogue: 0,0:00:19.53,0:00:20.05,Default,,0,0,0,,highlight words {\c&H00F5A58B\fscx112\fscy112}with{\c&H00F8FAFC\fscx100\fscy100} {\c&H00F5A58B}dynamic{\c&H00F8FAFC} {\c&H00F5A58B}captions,{\c&H00F8FAFC}
+Dialogue: 0,0:00:20.05,0:00:20.57,Default,,0,0,0,,highlight words with {\c&H00F5A58B\fscx112\fscy112}dynamic{\c&H00F8FAFC\fscx100\fscy100} {\c&H00F5A58B}captions,{\c&H00F8FAFC}
+Dialogue: 0,0:00:20.57,0:00:21.10,Default,,0,0,0,,highlight words with {\c&H00F5A58B}dynamic{\c&H00F8FAFC} {\c&H00F5A58B\fscx112\fscy112}captions,{\c&H00F8FAFC\fscx100\fscy100}
+Dialogue: 0,0:00:21.10,0:00:21.60,Default,,0,0,0,,{\c&H00F5A58B\fscx112\fscy112}and{\c&H00F8FAFC\fscx100\fscy100} {\c&H00F5A58B}lock{\c&H00F8FAFC} onto the {\c&H00F5A58B}speaker.{\c&H00F8FAFC}
+Dialogue: 0,0:00:21.60,0:00:22.10,Default,,0,0,0,,and {\c&H00F5A58B\fscx112\fscy112}lock{\c&H00F8FAFC\fscx100\fscy100} onto the {\c&H00F5A58B}speaker.{\c&H00F8FAFC}
+Dialogue: 0,0:00:22.10,0:00:22.60,Default,,0,0,0,,and {\c&H00F5A58B}lock{\c&H00F8FAFC} {\c&H00F5A58B\fscx112\fscy112}onto{\c&H00F8FAFC\fscx100\fscy100} the {\c&H00F5A58B}speaker.{\c&H00F8FAFC}
+Dialogue: 0,0:00:22.60,0:00:23.10,Default,,0,0,0,,and {\c&H00F5A58B}lock{\c&H00F8FAFC} onto {\c&H00F5A58B\fscx112\fscy112}the{\c&H00F8FAFC\fscx100\fscy100} {\c&H00F5A58B}speaker.{\c&H00F8FAFC}
+Dialogue: 0,0:00:23.10,0:00:23.60,Default,,0,0,0,,and {\c&H00F5A58B}lock{\c&H00F8FAFC} onto the {\c&H00F5A58B\fscx112\fscy112}speaker.{\c&H00F8FAFC\fscx100\fscy100}
+Dialogue: 0,0:00:23.60,0:00:24.21,Default,,0,0,0,,{\c&H00F5A58B\fscx112\fscy112}That{\c&H00F8FAFC\fscx100\fscy100} {\c&H00F5A58B}doubled{\c&H00F8FAFC} our {\c&H00F5A58B}watch-through{\c&H00F8FAFC} rate
+Dialogue: 0,0:00:24.21,0:00:24.83,Default,,0,0,0,,That {\c&H00F5A58B\fscx112\fscy112}doubled{\c&H00F8FAFC\fscx100\fscy100} our {\c&H00F5A58B}watch-through{\c&H00F8FAFC} rate
+Dialogue: 0,0:00:24.83,0:00:25.46,Default,,0,0,0,,That {\c&H00F5A58B}doubled{\c&H00F8FAFC} {\c&H00F5A58B\fscx112\fscy112}our{\c&H00F8FAFC\fscx100\fscy100} {\c&H00F5A58B}watch-through{\c&H00F8FAFC} rate
+Dialogue: 0,0:00:25.46,0:00:26.07,Default,,0,0,0,,That {\c&H00F5A58B}doubled{\c&H00F8FAFC} our {\c&H00F5A58B\fscx112\fscy112}watch-through{\c&H00F8FAFC\fscx100\fscy100} rate
+Dialogue: 0,0:00:26.07,0:00:26.69,Default,,0,0,0,,That {\c&H00F5A58B}doubled{\c&H00F8FAFC} our {\c&H00F5A58B}watch-through{\c&H00F8FAFC} {\c&H00F5A58B\fscx112\fscy112}rate{\c&H00F8FAFC\fscx100\fscy100}
+Dialogue: 0,0:00:26.69,0:00:27.32,Default,,0,0,0,,{\c&H00F5A58B\fscx112\fscy112}across{\c&H00F8FAFC\fscx100\fscy100} {\c&H00F5A58B}Reels,{\c&H00F8FAFC} {\c&H00F5A58B}Shorts,{\c&H00F8FAFC} and {\c&H00F5A58B}TikTok.{\c&H00F8FAFC}
+Dialogue: 0,0:00:27.32,0:00:27.94,Default,,0,0,0,,across {\c&H00F5A58B\fscx112\fscy112}Reels,{\c&H00F8FAFC\fscx100\fscy100} {\c&H00F5A58B}Shorts,{\c&H00F8FAFC} and {\c&H00F5A58B}TikTok.{\c&H00F8FAFC}
+Dialogue: 0,0:00:27.94,0:00:28.55,Default,,0,0,0,,across {\c&H00F5A58B}Reels,{\c&H00F8FAFC} {\c&H00F5A58B\fscx112\fscy112}Shorts,{\c&H00F8FAFC\fscx100\fscy100} and {\c&H00F5A58B}TikTok.{\c&H00F8FAFC}
+Dialogue: 0,0:00:28.55,0:00:29.17,Default,,0,0,0,,across {\c&H00F5A58B}Reels,{\c&H00F8FAFC} {\c&H00F5A58B}Shorts,{\c&H00F8FAFC} {\c&H00F5A58B\fscx112\fscy112}and{\c&H00F8FAFC\fscx100\fscy100} {\c&H00F5A58B}TikTok.{\c&H00F8FAFC}
+Dialogue: 0,0:00:29.17,0:00:29.80,Default,,0,0,0,,across {\c&H00F5A58B}Reels,{\c&H00F8FAFC} {\c&H00F5A58B}Shorts,{\c&H00F8FAFC} and {\c&H00F5A58B\fscx112\fscy112}TikTok.{\c&H00F8FAFC\fscx100\fscy100}

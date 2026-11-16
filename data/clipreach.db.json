@@ -1,0 +1,3538 @@
+{
+  "quota": {
+    "userName": "Isar Trikha",
+    "userEmail": "isartrikha@gmail.com",
+    "limitSeconds": 3600,
+    "usedSeconds": 55
+  },
+  "projects": [
+    {
+      "id": "proj_mwj6i4rt_34he",
+      "title": "Me at the zoo",
+      "sourceType": "youtube",
+      "sourceUrl": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+      "youtubeVideoId": "jNQXAC9IVRw",
+      "streamMode": "youtube-embed",
+      "originalFilename": "jNQXAC9IVRw.mp4",
+      "videoPath": "",
+      "thumbnailPath": "/app/applet/data/thumbs/proj_mwj6i4rt_34he.jpg",
+      "durationSeconds": 19,
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "targetClipDuration": 30,
+      "requestedClipCount": 6,
+      "language": "auto",
+      "status": "ready",
+      "progressPercent": 100,
+      "statusMessage": "Generated 6 viral clips from YouTube link.",
+      "fullTranscript": "All right, so here we are in front of the, uh, elephants. And the cool thing about these guys is that they have really, really, really long, um, trunks. And that's, that's cool. And that's pretty much all there is to say.",
+      "clips": [
+        {
+          "id": "clip_1_mwj6irpa",
+          "index": 1,
+          "title": "The First YouTube Video Ever",
+          "hook": "All right, so here we are in front of the elephants.",
+          "reasoning": "Captures the complete historic 19-second moment from start to finish, maximizing nostalgia and shareability.",
+          "language": "en",
+          "startTime": 0,
+          "endTime": 19,
+          "trimStart": 0,
+          "trimEnd": 19,
+          "viralScore": {
+            "overall": 90,
+            "hookStrength": 88,
+            "engagementPotential": 95,
+            "emotionalImpact": 92,
+            "pacing": 85,
+            "contentQuality": 90
+          },
+          "captionStyle": "hormozi",
+          "captions": [
+            {
+              "id": "c1-s1",
+              "start": 1,
+              "end": 2.4,
+              "text": "All right, so here we are",
+              "words": [
+                {
+                  "id": "c1-s1-w1",
+                  "word": "All",
+                  "start": 1,
+                  "end": 1.23,
+                  "important": false
+                },
+                {
+                  "id": "c1-s1-w2",
+                  "word": "right,",
+                  "start": 1.23,
+                  "end": 1.47,
+                  "important": false
+                },
+                {
+                  "id": "c1-s1-w3",
+                  "word": "so",
+                  "start": 1.47,
+                  "end": 1.7,
+                  "important": false
+                },
+                {
+                  "id": "c1-s1-w4",
+                  "word": "here",
+                  "start": 1.7,
+                  "end": 1.93,
+                  "important": true
+                },
+                {
+                  "id": "c1-s1-w5",
+                  "word": "we",
+                  "start": 1.93,
+                  "end": 2.17,
+                  "important": false
+                },
+                {
+                  "id": "c1-s1-w6",
+                  "word": "are",
+                  "start": 2.17,
+                  "end": 2.4,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c1-s2",
+              "start": 2.4,
+              "end": 4,
+              "text": "in front of the elephants.",
+              "words": [
+                {
+                  "id": "c1-s2-w1",
+                  "word": "in",
+                  "start": 2.4,
+                  "end": 2.72,
+                  "important": false
+                },
+                {
+                  "id": "c1-s2-w2",
+                  "word": "front",
+                  "start": 2.72,
+                  "end": 3.04,
+                  "important": false
+                },
+                {
+                  "id": "c1-s2-w3",
+                  "word": "of",
+                  "start": 3.04,
+                  "end": 3.36,
+                  "important": false
+                },
+                {
+                  "id": "c1-s2-w4",
+                  "word": "the",
+                  "start": 3.36,
+                  "end": 3.68,
+                  "important": false
+                },
+                {
+                  "id": "c1-s2-w5",
+                  "word": "elephants.",
+                  "start": 3.68,
+                  "end": 4,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c1-s3",
+              "start": 4.8,
+              "end": 6.8,
+              "text": "And the cool thing about these guys",
+              "words": [
+                {
+                  "id": "c1-s3-w1",
+                  "word": "And",
+                  "start": 4.8,
+                  "end": 5.09,
+                  "important": false
+                },
+                {
+                  "id": "c1-s3-w2",
+                  "word": "the",
+                  "start": 5.09,
+                  "end": 5.37,
+                  "important": false
+                },
+                {
+                  "id": "c1-s3-w3",
+                  "word": "cool",
+                  "start": 5.37,
+                  "end": 5.66,
+                  "important": true
+                },
+                {
+                  "id": "c1-s3-w4",
+                  "word": "thing",
+                  "start": 5.66,
+                  "end": 5.94,
+                  "important": true
+                },
+                {
+                  "id": "c1-s3-w5",
+                  "word": "about",
+                  "start": 5.94,
+                  "end": 6.23,
+                  "important": false
+                },
+                {
+                  "id": "c1-s3-w6",
+                  "word": "these",
+                  "start": 6.23,
+                  "end": 6.51,
+                  "important": false
+                },
+                {
+                  "id": "c1-s3-w7",
+                  "word": "guys",
+                  "start": 6.51,
+                  "end": 6.8,
+                  "important": false
+                }
+              ]
+            },
+            {
+              "id": "c1-s4",
+              "start": 6.8,
+              "end": 9.5,
+              "text": "is that they have really, really,",
+              "words": [
+                {
+                  "id": "c1-s4-w1",
+                  "word": "is",
+                  "start": 6.8,
+                  "end": 7.25,
+                  "important": false
+                },
+                {
+                  "id": "c1-s4-w2",
+                  "word": "that",
+                  "start": 7.25,
+                  "end": 7.7,
+                  "important": false
+                },
+                {
+                  "id": "c1-s4-w3",
+                  "word": "they",
+                  "start": 7.7,
+                  "end": 8.15,
+                  "important": false
+                },
+                {
+                  "id": "c1-s4-w4",
+                  "word": "have",
+                  "start": 8.15,
+                  "end": 8.6,
+                  "important": false
+                },
+                {
+                  "id": "c1-s4-w5",
+                  "word": "really,",
+                  "start": 8.6,
+                  "end": 9.05,
+                  "important": true
+                },
+                {
+                  "id": "c1-s4-w6",
+                  "word": "really,",
+                  "start": 9.05,
+                  "end": 9.5,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c1-s5",
+              "start": 9.5,
+              "end": 12.2,
+              "text": "really long, um, trunks.",
+              "words": [
+                {
+                  "id": "c1-s5-w1",
+                  "word": "really",
+                  "start": 9.5,
+                  "end": 10.18,
+                  "important": false
+                },
+                {
+                  "id": "c1-s5-w2",
+                  "word": "long,",
+                  "start": 10.18,
+                  "end": 10.85,
+                  "important": true
+                },
+                {
+                  "id": "c1-s5-w3",
+                  "word": "um,",
+                  "start": 10.85,
+                  "end": 11.52,
+                  "important": false
+                },
+                {
+                  "id": "c1-s5-w4",
+                  "word": "trunks.",
+                  "start": 11.52,
+                  "end": 12.2,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c1-s6",
+              "start": 12.2,
+              "end": 13.8,
+              "text": "And that's, that's cool.",
+              "words": [
+                {
+                  "id": "c1-s6-w1",
+                  "word": "And",
+                  "start": 12.2,
+                  "end": 12.6,
+                  "important": false
+                },
+                {
+                  "id": "c1-s6-w2",
+                  "word": "that's,",
+                  "start": 12.6,
+                  "end": 13,
+                  "important": false
+                },
+                {
+                  "id": "c1-s6-w3",
+                  "word": "that's",
+                  "start": 13,
+                  "end": 13.4,
+                  "important": false
+                },
+                {
+                  "id": "c1-s6-w4",
+                  "word": "cool.",
+                  "start": 13.4,
+                  "end": 13.8,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c1-s7",
+              "start": 16.5,
+              "end": 18.8,
+              "text": "And that's pretty much all there is to say.",
+              "words": [
+                {
+                  "id": "c1-s7-w1",
+                  "word": "And",
+                  "start": 16.5,
+                  "end": 16.76,
+                  "important": false
+                },
+                {
+                  "id": "c1-s7-w2",
+                  "word": "that's",
+                  "start": 16.76,
+                  "end": 17.01,
+                  "important": false
+                },
+                {
+                  "id": "c1-s7-w3",
+                  "word": "pretty",
+                  "start": 17.01,
+                  "end": 17.27,
+                  "important": false
+                },
+                {
+                  "id": "c1-s7-w4",
+                  "word": "much",
+                  "start": 17.27,
+                  "end": 17.52,
+                  "important": false
+                },
+                {
+                  "id": "c1-s7-w5",
+                  "word": "all",
+                  "start": 17.52,
+                  "end": 17.78,
+                  "important": true
+                },
+                {
+                  "id": "c1-s7-w6",
+                  "word": "there",
+                  "start": 17.78,
+                  "end": 18.03,
+                  "important": false
+                },
+                {
+                  "id": "c1-s7-w7",
+                  "word": "is",
+                  "start": 18.03,
+                  "end": 18.29,
+                  "important": false
+                },
+                {
+                  "id": "c1-s7-w8",
+                  "word": "to",
+                  "start": 18.29,
+                  "end": 18.54,
+                  "important": false
+                },
+                {
+                  "id": "c1-s7-w9",
+                  "word": "say.",
+                  "start": 18.54,
+                  "end": 18.8,
+                  "important": true
+                }
+              ]
+            }
+          ],
+          "framingMode": "auto-face",
+          "faceCenterX": 0.58,
+          "autoZoom": true,
+          "backgroundVideoId": "none",
+          "transitionEffect": "hook-zoom",
+          "exportFormat": "reels"
+        },
+        {
+          "id": "clip_6_mwj6irpa",
+          "index": 2,
+          "title": "In Front of the Elephants",
+          "hook": "Here we are in front of the elephants.",
+          "reasoning": "Delivers the full setup and payoff without the trailing silence at the end, keeping pacing tight.",
+          "language": "en",
+          "startTime": 1,
+          "endTime": 13,
+          "trimStart": 1,
+          "trimEnd": 13,
+          "viralScore": {
+            "overall": 88,
+            "hookStrength": 86,
+            "engagementPotential": 90,
+            "emotionalImpact": 84,
+            "pacing": 91,
+            "contentQuality": 88
+          },
+          "captionStyle": "hormozi",
+          "captions": [
+            {
+              "id": "c6-s1",
+              "start": 1,
+              "end": 2.4,
+              "text": "All right, so here we are",
+              "words": [
+                {
+                  "id": "c6-s1-w1",
+                  "word": "All",
+                  "start": 1,
+                  "end": 1.23,
+                  "important": false
+                },
+                {
+                  "id": "c6-s1-w2",
+                  "word": "right,",
+                  "start": 1.23,
+                  "end": 1.47,
+                  "important": false
+                },
+                {
+                  "id": "c6-s1-w3",
+                  "word": "so",
+                  "start": 1.47,
+                  "end": 1.7,
+                  "important": false
+                },
+                {
+                  "id": "c6-s1-w4",
+                  "word": "here",
+                  "start": 1.7,
+                  "end": 1.93,
+                  "important": true
+                },
+                {
+                  "id": "c6-s1-w5",
+                  "word": "we",
+                  "start": 1.93,
+                  "end": 2.17,
+                  "important": false
+                },
+                {
+                  "id": "c6-s1-w6",
+                  "word": "are",
+                  "start": 2.17,
+                  "end": 2.4,
+                  "important": false
+                }
+              ]
+            },
+            {
+              "id": "c6-s2",
+              "start": 2.4,
+              "end": 4,
+              "text": "in front of the elephants.",
+              "words": [
+                {
+                  "id": "c6-s2-w1",
+                  "word": "in",
+                  "start": 2.4,
+                  "end": 2.72,
+                  "important": false
+                },
+                {
+                  "id": "c6-s2-w2",
+                  "word": "front",
+                  "start": 2.72,
+                  "end": 3.04,
+                  "important": false
+                },
+                {
+                  "id": "c6-s2-w3",
+                  "word": "of",
+                  "start": 3.04,
+                  "end": 3.36,
+                  "important": false
+                },
+                {
+                  "id": "c6-s2-w4",
+                  "word": "the",
+                  "start": 3.36,
+                  "end": 3.68,
+                  "important": false
+                },
+                {
+                  "id": "c6-s2-w5",
+                  "word": "elephants.",
+                  "start": 3.68,
+                  "end": 4,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c6-s3",
+              "start": 4.8,
+              "end": 6.8,
+              "text": "And the cool thing about these guys",
+              "words": [
+                {
+                  "id": "c6-s3-w1",
+                  "word": "And",
+                  "start": 4.8,
+                  "end": 5.09,
+                  "important": false
+                },
+                {
+                  "id": "c6-s3-w2",
+                  "word": "the",
+                  "start": 5.09,
+                  "end": 5.37,
+                  "important": false
+                },
+                {
+                  "id": "c6-s3-w3",
+                  "word": "cool",
+                  "start": 5.37,
+                  "end": 5.66,
+                  "important": true
+                },
+                {
+                  "id": "c6-s3-w4",
+                  "word": "thing",
+                  "start": 5.66,
+                  "end": 5.94,
+                  "important": true
+                },
+                {
+                  "id": "c6-s3-w5",
+                  "word": "about",
+                  "start": 5.94,
+                  "end": 6.23,
+                  "important": false
+                },
+                {
+                  "id": "c6-s3-w6",
+                  "word": "these",
+                  "start": 6.23,
+                  "end": 6.51,
+                  "important": false
+                },
+                {
+                  "id": "c6-s3-w7",
+                  "word": "guys",
+                  "start": 6.51,
+                  "end": 6.8,
+                  "important": false
+                }
+              ]
+            },
+            {
+              "id": "c6-s4",
+              "start": 6.8,
+              "end": 9.5,
+              "text": "is that they have really, really,",
+              "words": [
+                {
+                  "id": "c6-s4-w1",
+                  "word": "is",
+                  "start": 6.8,
+                  "end": 7.25,
+                  "important": false
+                },
+                {
+                  "id": "c6-s4-w2",
+                  "word": "that",
+                  "start": 7.25,
+                  "end": 7.7,
+                  "important": false
+                },
+                {
+                  "id": "c6-s4-w3",
+                  "word": "they",
+                  "start": 7.7,
+                  "end": 8.15,
+                  "important": false
+                },
+                {
+                  "id": "c6-s4-w4",
+                  "word": "have",
+                  "start": 8.15,
+                  "end": 8.6,
+                  "important": false
+                },
+                {
+                  "id": "c6-s4-w5",
+                  "word": "really,",
+                  "start": 8.6,
+                  "end": 9.05,
+                  "important": true
+                },
+                {
+                  "id": "c6-s4-w6",
+                  "word": "really,",
+                  "start": 9.05,
+                  "end": 9.5,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c6-s5",
+              "start": 9.5,
+              "end": 12.2,
+              "text": "really long, um, trunks.",
+              "words": [
+                {
+                  "id": "c6-s5-w1",
+                  "word": "really",
+                  "start": 9.5,
+                  "end": 10.18,
+                  "important": false
+                },
+                {
+                  "id": "c6-s5-w2",
+                  "word": "long,",
+                  "start": 10.18,
+                  "end": 10.85,
+                  "important": true
+                },
+                {
+                  "id": "c6-s5-w3",
+                  "word": "um,",
+                  "start": 10.85,
+                  "end": 11.52,
+                  "important": false
+                },
+                {
+                  "id": "c6-s5-w4",
+                  "word": "trunks.",
+                  "start": 11.52,
+                  "end": 12.2,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c6-s6",
+              "start": 12.2,
+              "end": 13,
+              "text": "And that's, that's cool.",
+              "words": [
+                {
+                  "id": "c6-s6-w1",
+                  "word": "And",
+                  "start": 12.2,
+                  "end": 12.4,
+                  "important": false
+                },
+                {
+                  "id": "c6-s6-w2",
+                  "word": "that's,",
+                  "start": 12.4,
+                  "end": 12.6,
+                  "important": false
+                },
+                {
+                  "id": "c6-s6-w3",
+                  "word": "that's",
+                  "start": 12.6,
+                  "end": 12.8,
+                  "important": false
+                },
+                {
+                  "id": "c6-s6-w4",
+                  "word": "cool.",
+                  "start": 12.8,
+                  "end": 13,
+                  "important": true
+                }
+              ]
+            }
+          ],
+          "framingMode": "auto-face",
+          "faceCenterX": 0.58,
+          "autoZoom": true,
+          "backgroundVideoId": "none",
+          "transitionEffect": "hook-zoom",
+          "exportFormat": "tiktok"
+        },
+        {
+          "id": "clip_2_mwj6irpa",
+          "index": 3,
+          "title": "Why Elephants Are Cool",
+          "hook": "And the cool thing about these guys...",
+          "reasoning": "Focuses on the iconic punchline about elephant trunks, which is the most quoted part of the clip.",
+          "language": "en",
+          "startTime": 5,
+          "endTime": 14,
+          "trimStart": 5,
+          "trimEnd": 14,
+          "viralScore": {
+            "overall": 85,
+            "hookStrength": 84,
+            "engagementPotential": 89,
+            "emotionalImpact": 78,
+            "pacing": 88,
+            "contentQuality": 85
+          },
+          "captionStyle": "hormozi",
+          "captions": [
+            {
+              "id": "c2-s1",
+              "start": 5,
+              "end": 6.8,
+              "text": "cool thing about these guys",
+              "words": [
+                {
+                  "id": "c2-s1-w1",
+                  "word": "cool",
+                  "start": 5,
+                  "end": 5.36,
+                  "important": true
+                },
+                {
+                  "id": "c2-s1-w2",
+                  "word": "thing",
+                  "start": 5.36,
+                  "end": 5.72,
+                  "important": false
+                },
+                {
+                  "id": "c2-s1-w3",
+                  "word": "about",
+                  "start": 5.72,
+                  "end": 6.08,
+                  "important": false
+                },
+                {
+                  "id": "c2-s1-w4",
+                  "word": "these",
+                  "start": 6.08,
+                  "end": 6.44,
+                  "important": false
+                },
+                {
+                  "id": "c2-s1-w5",
+                  "word": "guys",
+                  "start": 6.44,
+                  "end": 6.8,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c2-s2",
+              "start": 6.8,
+              "end": 9.5,
+              "text": "is that they have really, really,",
+              "words": [
+                {
+                  "id": "c2-s2-w1",
+                  "word": "is",
+                  "start": 6.8,
+                  "end": 7.25,
+                  "important": false
+                },
+                {
+                  "id": "c2-s2-w2",
+                  "word": "that",
+                  "start": 7.25,
+                  "end": 7.7,
+                  "important": false
+                },
+                {
+                  "id": "c2-s2-w3",
+                  "word": "they",
+                  "start": 7.7,
+                  "end": 8.15,
+                  "important": false
+                },
+                {
+                  "id": "c2-s2-w4",
+                  "word": "have",
+                  "start": 8.15,
+                  "end": 8.6,
+                  "important": false
+                },
+                {
+                  "id": "c2-s2-w5",
+                  "word": "really,",
+                  "start": 8.6,
+                  "end": 9.05,
+                  "important": true
+                },
+                {
+                  "id": "c2-s2-w6",
+                  "word": "really,",
+                  "start": 9.05,
+                  "end": 9.5,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c2-s3",
+              "start": 9.5,
+              "end": 12.2,
+              "text": "really long, um, trunks.",
+              "words": [
+                {
+                  "id": "c2-s3-w1",
+                  "word": "really",
+                  "start": 9.5,
+                  "end": 10.18,
+                  "important": false
+                },
+                {
+                  "id": "c2-s3-w2",
+                  "word": "long,",
+                  "start": 10.18,
+                  "end": 10.85,
+                  "important": true
+                },
+                {
+                  "id": "c2-s3-w3",
+                  "word": "um,",
+                  "start": 10.85,
+                  "end": 11.52,
+                  "important": false
+                },
+                {
+                  "id": "c2-s3-w4",
+                  "word": "trunks.",
+                  "start": 11.52,
+                  "end": 12.2,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c2-s4",
+              "start": 12.2,
+              "end": 13.8,
+              "text": "And that's, that's cool.",
+              "words": [
+                {
+                  "id": "c2-s4-w1",
+                  "word": "And",
+                  "start": 12.2,
+                  "end": 12.6,
+                  "important": false
+                },
+                {
+                  "id": "c2-s4-w2",
+                  "word": "that's,",
+                  "start": 12.6,
+                  "end": 13,
+                  "important": false
+                },
+                {
+                  "id": "c2-s4-w3",
+                  "word": "that's",
+                  "start": 13,
+                  "end": 13.4,
+                  "important": false
+                },
+                {
+                  "id": "c2-s4-w4",
+                  "word": "cool.",
+                  "start": 13.4,
+                  "end": 13.8,
+                  "important": true
+                }
+              ]
+            }
+          ],
+          "framingMode": "auto-face",
+          "faceCenterX": 0.58,
+          "autoZoom": true,
+          "backgroundVideoId": "none",
+          "transitionEffect": "hook-zoom",
+          "exportFormat": "shorts"
+        },
+        {
+          "id": "clip_4_mwj6irpa",
+          "index": 4,
+          "title": "Long Trunks and Deadpan Ending",
+          "hook": "Really, really long trunks.",
+          "reasoning": "Combines the deadpan delivery of the trunk observation with the abrupt, memorable sign-off.",
+          "language": "en",
+          "startTime": 8,
+          "endTime": 19,
+          "trimStart": 8,
+          "trimEnd": 19,
+          "viralScore": {
+            "overall": 83,
+            "hookStrength": 80,
+            "engagementPotential": 87,
+            "emotionalImpact": 82,
+            "pacing": 81,
+            "contentQuality": 84
+          },
+          "captionStyle": "hormozi",
+          "captions": [
+            {
+              "id": "c4-s1",
+              "start": 8,
+              "end": 9.5,
+              "text": "really, really,",
+              "words": [
+                {
+                  "id": "c4-s1-w1",
+                  "word": "really,",
+                  "start": 8,
+                  "end": 8.75,
+                  "important": true
+                },
+                {
+                  "id": "c4-s1-w2",
+                  "word": "really,",
+                  "start": 8.75,
+                  "end": 9.5,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c4-s2",
+              "start": 9.5,
+              "end": 12.2,
+              "text": "really long, um, trunks.",
+              "words": [
+                {
+                  "id": "c4-s2-w1",
+                  "word": "really",
+                  "start": 9.5,
+                  "end": 10.18,
+                  "important": false
+                },
+                {
+                  "id": "c4-s2-w2",
+                  "word": "long,",
+                  "start": 10.18,
+                  "end": 10.85,
+                  "important": true
+                },
+                {
+                  "id": "c4-s2-w3",
+                  "word": "um,",
+                  "start": 10.85,
+                  "end": 11.52,
+                  "important": false
+                },
+                {
+                  "id": "c4-s2-w4",
+                  "word": "trunks.",
+                  "start": 11.52,
+                  "end": 12.2,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c4-s3",
+              "start": 12.2,
+              "end": 13.8,
+              "text": "And that's, that's cool.",
+              "words": [
+                {
+                  "id": "c4-s3-w1",
+                  "word": "And",
+                  "start": 12.2,
+                  "end": 12.6,
+                  "important": false
+                },
+                {
+                  "id": "c4-s3-w2",
+                  "word": "that's,",
+                  "start": 12.6,
+                  "end": 13,
+                  "important": false
+                },
+                {
+                  "id": "c4-s3-w3",
+                  "word": "that's",
+                  "start": 13,
+                  "end": 13.4,
+                  "important": false
+                },
+                {
+                  "id": "c4-s3-w4",
+                  "word": "cool.",
+                  "start": 13.4,
+                  "end": 13.8,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c4-s4",
+              "start": 16.5,
+              "end": 18.8,
+              "text": "And that's pretty much all there is to say.",
+              "words": [
+                {
+                  "id": "c4-s4-w1",
+                  "word": "And",
+                  "start": 16.5,
+                  "end": 16.76,
+                  "important": false
+                },
+                {
+                  "id": "c4-s4-w2",
+                  "word": "that's",
+                  "start": 16.76,
+                  "end": 17.01,
+                  "important": false
+                },
+                {
+                  "id": "c4-s4-w3",
+                  "word": "pretty",
+                  "start": 17.01,
+                  "end": 17.27,
+                  "important": false
+                },
+                {
+                  "id": "c4-s4-w4",
+                  "word": "much",
+                  "start": 17.27,
+                  "end": 17.52,
+                  "important": false
+                },
+                {
+                  "id": "c4-s4-w5",
+                  "word": "all",
+                  "start": 17.52,
+                  "end": 17.78,
+                  "important": true
+                },
+                {
+                  "id": "c4-s4-w6",
+                  "word": "there",
+                  "start": 17.78,
+                  "end": 18.03,
+                  "important": false
+                },
+                {
+                  "id": "c4-s4-w7",
+                  "word": "is",
+                  "start": 18.03,
+                  "end": 18.29,
+                  "important": false
+                },
+                {
+                  "id": "c4-s4-w8",
+                  "word": "to",
+                  "start": 18.29,
+                  "end": 18.54,
+                  "important": false
+                },
+                {
+                  "id": "c4-s4-w9",
+                  "word": "say.",
+                  "start": 18.54,
+                  "end": 18.8,
+                  "important": true
+                }
+              ]
+            }
+          ],
+          "framingMode": "auto-face",
+          "faceCenterX": 0.58,
+          "autoZoom": true,
+          "backgroundVideoId": "none",
+          "transitionEffect": "hook-zoom",
+          "exportFormat": "reels"
+        },
+        {
+          "id": "clip_3_mwj6irpa",
+          "index": 5,
+          "title": "At The Zoo Intro",
+          "hook": "All right, so here we are in front of the elephants.",
+          "reasoning": "Short, punchy opening segment that immediately establishes the setting and speaker.",
+          "language": "en",
+          "startTime": 0,
+          "endTime": 6,
+          "trimStart": 0,
+          "trimEnd": 6,
+          "viralScore": {
+            "overall": 79,
+            "hookStrength": 82,
+            "engagementPotential": 76,
+            "emotionalImpact": 74,
+            "pacing": 86,
+            "contentQuality": 80
+          },
+          "captionStyle": "hormozi",
+          "captions": [
+            {
+              "id": "c3-s1",
+              "start": 1,
+              "end": 2.4,
+              "text": "All right, so here we are",
+              "words": [
+                {
+                  "id": "c3-s1-w1",
+                  "word": "All",
+                  "start": 1,
+                  "end": 1.23,
+                  "important": false
+                },
+                {
+                  "id": "c3-s1-w2",
+                  "word": "right,",
+                  "start": 1.23,
+                  "end": 1.47,
+                  "important": false
+                },
+                {
+                  "id": "c3-s1-w3",
+                  "word": "so",
+                  "start": 1.47,
+                  "end": 1.7,
+                  "important": false
+                },
+                {
+                  "id": "c3-s1-w4",
+                  "word": "here",
+                  "start": 1.7,
+                  "end": 1.93,
+                  "important": true
+                },
+                {
+                  "id": "c3-s1-w5",
+                  "word": "we",
+                  "start": 1.93,
+                  "end": 2.17,
+                  "important": false
+                },
+                {
+                  "id": "c3-s1-w6",
+                  "word": "are",
+                  "start": 2.17,
+                  "end": 2.4,
+                  "important": false
+                }
+              ]
+            },
+            {
+              "id": "c3-s2",
+              "start": 2.4,
+              "end": 4,
+              "text": "in front of the elephants.",
+              "words": [
+                {
+                  "id": "c3-s2-w1",
+                  "word": "in",
+                  "start": 2.4,
+                  "end": 2.72,
+                  "important": false
+                },
+                {
+                  "id": "c3-s2-w2",
+                  "word": "front",
+                  "start": 2.72,
+                  "end": 3.04,
+                  "important": false
+                },
+                {
+                  "id": "c3-s2-w3",
+                  "word": "of",
+                  "start": 3.04,
+                  "end": 3.36,
+                  "important": false
+                },
+                {
+                  "id": "c3-s2-w4",
+                  "word": "the",
+                  "start": 3.36,
+                  "end": 3.68,
+                  "important": false
+                },
+                {
+                  "id": "c3-s2-w5",
+                  "word": "elephants.",
+                  "start": 3.68,
+                  "end": 4,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c3-s3",
+              "start": 4.8,
+              "end": 6,
+              "text": "And the cool thing",
+              "words": [
+                {
+                  "id": "c3-s3-w1",
+                  "word": "And",
+                  "start": 4.8,
+                  "end": 5.1,
+                  "important": false
+                },
+                {
+                  "id": "c3-s3-w2",
+                  "word": "the",
+                  "start": 5.1,
+                  "end": 5.4,
+                  "important": false
+                },
+                {
+                  "id": "c3-s3-w3",
+                  "word": "cool",
+                  "start": 5.4,
+                  "end": 5.7,
+                  "important": true
+                },
+                {
+                  "id": "c3-s3-w4",
+                  "word": "thing",
+                  "start": 5.7,
+                  "end": 6,
+                  "important": false
+                }
+              ]
+            }
+          ],
+          "framingMode": "auto-face",
+          "faceCenterX": 0.58,
+          "autoZoom": true,
+          "backgroundVideoId": "none",
+          "transitionEffect": "hook-zoom",
+          "exportFormat": "tiktok"
+        },
+        {
+          "id": "clip_5_mwj6irpa",
+          "index": 6,
+          "title": "That's Pretty Much All",
+          "hook": "And that's, that's cool.",
+          "reasoning": "Highlights the awkward, charming pause as he looks back at the elephants before ending the video.",
+          "language": "en",
+          "startTime": 12,
+          "endTime": 19,
+          "trimStart": 12,
+          "trimEnd": 19,
+          "viralScore": {
+            "overall": 77,
+            "hookStrength": 75,
+            "engagementPotential": 80,
+            "emotionalImpact": 79,
+            "pacing": 74,
+            "contentQuality": 78
+          },
+          "captionStyle": "hormozi",
+          "captions": [
+            {
+              "id": "c5-s1",
+              "start": 12.2,
+              "end": 13.8,
+              "text": "And that's, that's cool.",
+              "words": [
+                {
+                  "id": "c5-s1-w1",
+                  "word": "And",
+                  "start": 12.2,
+                  "end": 12.6,
+                  "important": false
+                },
+                {
+                  "id": "c5-s1-w2",
+                  "word": "that's,",
+                  "start": 12.6,
+                  "end": 13,
+                  "important": false
+                },
+                {
+                  "id": "c5-s1-w3",
+                  "word": "that's",
+                  "start": 13,
+                  "end": 13.4,
+                  "important": false
+                },
+                {
+                  "id": "c5-s1-w4",
+                  "word": "cool.",
+                  "start": 13.4,
+                  "end": 13.8,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c5-s2",
+              "start": 16.5,
+              "end": 17.6,
+              "text": "And that's pretty much",
+              "words": [
+                {
+                  "id": "c5-s2-w1",
+                  "word": "And",
+                  "start": 16.5,
+                  "end": 16.77,
+                  "important": false
+                },
+                {
+                  "id": "c5-s2-w2",
+                  "word": "that's",
+                  "start": 16.77,
+                  "end": 17.05,
+                  "important": false
+                },
+                {
+                  "id": "c5-s2-w3",
+                  "word": "pretty",
+                  "start": 17.05,
+                  "end": 17.33,
+                  "important": true
+                },
+                {
+                  "id": "c5-s2-w4",
+                  "word": "much",
+                  "start": 17.33,
+                  "end": 17.6,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c5-s3",
+              "start": 17.6,
+              "end": 18.8,
+              "text": "all there is to say.",
+              "words": [
+                {
+                  "id": "c5-s3-w1",
+                  "word": "all",
+                  "start": 17.6,
+                  "end": 17.84,
+                  "important": true
+                },
+                {
+                  "id": "c5-s3-w2",
+                  "word": "there",
+                  "start": 17.84,
+                  "end": 18.08,
+                  "important": false
+                },
+                {
+                  "id": "c5-s3-w3",
+                  "word": "is",
+                  "start": 18.08,
+                  "end": 18.32,
+                  "important": false
+                },
+                {
+                  "id": "c5-s3-w4",
+                  "word": "to",
+                  "start": 18.32,
+                  "end": 18.56,
+                  "important": false
+                },
+                {
+                  "id": "c5-s3-w5",
+                  "word": "say.",
+                  "start": 18.56,
+                  "end": 18.8,
+                  "important": true
+                }
+              ]
+            }
+          ],
+          "framingMode": "auto-face",
+          "faceCenterX": 0.58,
+          "autoZoom": true,
+          "backgroundVideoId": "none",
+          "transitionEffect": "hook-zoom",
+          "exportFormat": "shorts"
+        }
+      ],
+      "createdAt": "2026-11-16T11:27:05.897Z",
+      "updatedAt": "2026-11-16T11:27:35.647Z"
+    },
+    {
+      "id": "proj_mwj61wx6_l12p",
+      "title": "Creator Retention Podcast — First 2 Seconds Hook",
+      "sourceType": "sample",
+      "originalFilename": "creator_retention_podcast.mp4",
+      "videoPath": "/app/applet/data/uploads/proj_mwj61wx6_l12p_sample.mp4",
+      "durationSeconds": 35.5,
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "targetClipDuration": 30,
+      "requestedClipCount": 6,
+      "language": "en",
+      "status": "ready",
+      "progressPercent": 100,
+      "statusMessage": "Generated 6 viral clips ready for editing.",
+      "fullTranscript": "Stop posting 60-minute podcasts without cutting them into vertical hooks first. Here is the brutal truth most creators ignore. 90% of your audience decides whether to stay in the first two seconds. If your opening line sounds like a slow introduction, viewers swipe immediately. Instead, open with a bold, contrarian takeaway, highlight every power word with dynamic captions, and lock the camera onto the speaker. That single shift doubled our watch-through rate on Instagram Reels, YouTube Shorts, and TikTok in 30 days. Now let's break down the exact three-step retention framework every top creator uses right now.",
+      "clips": [
+        {
+          "id": "clip_1_mwj63ccj",
+          "index": 1,
+          "title": "Stop Posting 60-Minute Podcasts Wrong",
+          "hook": "Stop posting 60-minute podcasts without cutting them into vertical hooks first.",
+          "reasoning": "Opens with a direct command and contrarian callout, builds urgency with the 2-second retention stat, and pays off with a concrete 30-day growth result.",
+          "language": "en",
+          "startTime": 0,
+          "endTime": 29.8,
+          "trimStart": 0,
+          "trimEnd": 29.8,
+          "viralScore": {
+            "overall": 93,
+            "hookStrength": 96,
+            "engagementPotential": 94,
+            "emotionalImpact": 88,
+            "pacing": 92,
+            "contentQuality": 95
+          },
+          "captionStyle": "minimal",
+          "captions": [
+            {
+              "id": "c1-s1",
+              "start": 0,
+              "end": 2.1,
+              "text": "Stop posting 60-minute podcasts",
+              "words": [
+                {
+                  "id": "c1-s1-w1",
+                  "word": "Stop",
+                  "start": 0,
+                  "end": 0.53,
+                  "important": true
+                },
+                {
+                  "id": "c1-s1-w2",
+                  "word": "posting",
+                  "start": 0.53,
+                  "end": 1.05,
+                  "important": false
+                },
+                {
+                  "id": "c1-s1-w3",
+                  "word": "60-minute",
+                  "start": 1.05,
+                  "end": 1.58,
+                  "important": true
+                },
+                {
+                  "id": "c1-s1-w4",
+                  "word": "podcasts",
+                  "start": 1.58,
+                  "end": 2.1,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c1-s2",
+              "start": 2.1,
+              "end": 4.3,
+              "text": "without cutting vertical hooks first.",
+              "words": [
+                {
+                  "id": "c1-s2-w1",
+                  "word": "without",
+                  "start": 2.1,
+                  "end": 2.54,
+                  "important": false
+                },
+                {
+                  "id": "c1-s2-w2",
+                  "word": "cutting",
+                  "start": 2.54,
+                  "end": 2.98,
+                  "important": false
+                },
+                {
+                  "id": "c1-s2-w3",
+                  "word": "vertical",
+                  "start": 2.98,
+                  "end": 3.42,
+                  "important": true
+                },
+                {
+                  "id": "c1-s2-w4",
+                  "word": "hooks",
+                  "start": 3.42,
+                  "end": 3.86,
+                  "important": true
+                },
+                {
+                  "id": "c1-s2-w5",
+                  "word": "first.",
+                  "start": 3.86,
+                  "end": 4.3,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c1-s3",
+              "start": 4.3,
+              "end": 5.8,
+              "text": "Here is the brutal truth",
+              "words": [
+                {
+                  "id": "c1-s3-w1",
+                  "word": "Here",
+                  "start": 4.3,
+                  "end": 4.6,
+                  "important": false
+                },
+                {
+                  "id": "c1-s3-w2",
+                  "word": "is",
+                  "start": 4.6,
+                  "end": 4.9,
+                  "important": false
+                },
+                {
+                  "id": "c1-s3-w3",
+                  "word": "the",
+                  "start": 4.9,
+                  "end": 5.2,
+                  "important": false
+                },
+                {
+                  "id": "c1-s3-w4",
+                  "word": "brutal",
+                  "start": 5.2,
+                  "end": 5.5,
+                  "important": true
+                },
+                {
+                  "id": "c1-s3-w5",
+                  "word": "truth",
+                  "start": 5.5,
+                  "end": 5.8,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c1-s4",
+              "start": 5.8,
+              "end": 7.3,
+              "text": "most creators ignore.",
+              "words": [
+                {
+                  "id": "c1-s4-w1",
+                  "word": "most",
+                  "start": 5.8,
+                  "end": 6.3,
+                  "important": false
+                },
+                {
+                  "id": "c1-s4-w2",
+                  "word": "creators",
+                  "start": 6.3,
+                  "end": 6.8,
+                  "important": true
+                },
+                {
+                  "id": "c1-s4-w3",
+                  "word": "ignore.",
+                  "start": 6.8,
+                  "end": 7.3,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c1-s5",
+              "start": 7.3,
+              "end": 9.3,
+              "text": "90% of your audience",
+              "words": [
+                {
+                  "id": "c1-s5-w1",
+                  "word": "90%",
+                  "start": 7.3,
+                  "end": 7.8,
+                  "important": true
+                },
+                {
+                  "id": "c1-s5-w2",
+                  "word": "of",
+                  "start": 7.8,
+                  "end": 8.3,
+                  "important": false
+                },
+                {
+                  "id": "c1-s5-w3",
+                  "word": "your",
+                  "start": 8.3,
+                  "end": 8.8,
+                  "important": false
+                },
+                {
+                  "id": "c1-s5-w4",
+                  "word": "audience",
+                  "start": 8.8,
+                  "end": 9.3,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c1-s6",
+              "start": 9.3,
+              "end": 11.4,
+              "text": "decides in two seconds.",
+              "words": [
+                {
+                  "id": "c1-s6-w1",
+                  "word": "decides",
+                  "start": 9.3,
+                  "end": 9.83,
+                  "important": true
+                },
+                {
+                  "id": "c1-s6-w2",
+                  "word": "in",
+                  "start": 9.83,
+                  "end": 10.35,
+                  "important": false
+                },
+                {
+                  "id": "c1-s6-w3",
+                  "word": "two",
+                  "start": 10.35,
+                  "end": 10.88,
+                  "important": true
+                },
+                {
+                  "id": "c1-s6-w4",
+                  "word": "seconds.",
+                  "start": 10.88,
+                  "end": 11.4,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c1-s7",
+              "start": 11.4,
+              "end": 13.7,
+              "text": "If your opening sounds slow,",
+              "words": [
+                {
+                  "id": "c1-s7-w1",
+                  "word": "If",
+                  "start": 11.4,
+                  "end": 11.86,
+                  "important": false
+                },
+                {
+                  "id": "c1-s7-w2",
+                  "word": "your",
+                  "start": 11.86,
+                  "end": 12.32,
+                  "important": false
+                },
+                {
+                  "id": "c1-s7-w3",
+                  "word": "opening",
+                  "start": 12.32,
+                  "end": 12.78,
+                  "important": true
+                },
+                {
+                  "id": "c1-s7-w4",
+                  "word": "sounds",
+                  "start": 12.78,
+                  "end": 13.24,
+                  "important": false
+                },
+                {
+                  "id": "c1-s7-w5",
+                  "word": "slow,",
+                  "start": 13.24,
+                  "end": 13.7,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c1-s8",
+              "start": 13.7,
+              "end": 16,
+              "text": "viewers swipe immediately.",
+              "words": [
+                {
+                  "id": "c1-s8-w1",
+                  "word": "viewers",
+                  "start": 13.7,
+                  "end": 14.47,
+                  "important": false
+                },
+                {
+                  "id": "c1-s8-w2",
+                  "word": "swipe",
+                  "start": 14.47,
+                  "end": 15.23,
+                  "important": true
+                },
+                {
+                  "id": "c1-s8-w3",
+                  "word": "immediately.",
+                  "start": 15.23,
+                  "end": 16,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c1-s9",
+              "start": 16,
+              "end": 18.5,
+              "text": "Open with a contrarian takeaway,",
+              "words": [
+                {
+                  "id": "c1-s9-w1",
+                  "word": "Open",
+                  "start": 16,
+                  "end": 16.5,
+                  "important": false
+                },
+                {
+                  "id": "c1-s9-w2",
+                  "word": "with",
+                  "start": 16.5,
+                  "end": 17,
+                  "important": false
+                },
+                {
+                  "id": "c1-s9-w3",
+                  "word": "a",
+                  "start": 17,
+                  "end": 17.5,
+                  "important": false
+                },
+                {
+                  "id": "c1-s9-w4",
+                  "word": "contrarian",
+                  "start": 17.5,
+                  "end": 18,
+                  "important": true
+                },
+                {
+                  "id": "c1-s9-w5",
+                  "word": "takeaway,",
+                  "start": 18,
+                  "end": 18.5,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c1-s10",
+              "start": 18.5,
+              "end": 21.1,
+              "text": "highlight words with dynamic captions,",
+              "words": [
+                {
+                  "id": "c1-s10-w1",
+                  "word": "highlight",
+                  "start": 18.5,
+                  "end": 19.02,
+                  "important": false
+                },
+                {
+                  "id": "c1-s10-w2",
+                  "word": "words",
+                  "start": 19.02,
+                  "end": 19.54,
+                  "important": false
+                },
+                {
+                  "id": "c1-s10-w3",
+                  "word": "with",
+                  "start": 19.54,
+                  "end": 20.06,
+                  "important": false
+                },
+                {
+                  "id": "c1-s10-w4",
+                  "word": "dynamic",
+                  "start": 20.06,
+                  "end": 20.58,
+                  "important": true
+                },
+                {
+                  "id": "c1-s10-w5",
+                  "word": "captions,",
+                  "start": 20.58,
+                  "end": 21.1,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c1-s11",
+              "start": 21.1,
+              "end": 23.6,
+              "text": "and lock onto the speaker.",
+              "words": [
+                {
+                  "id": "c1-s11-w1",
+                  "word": "and",
+                  "start": 21.1,
+                  "end": 21.6,
+                  "important": false
+                },
+                {
+                  "id": "c1-s11-w2",
+                  "word": "lock",
+                  "start": 21.6,
+                  "end": 22.1,
+                  "important": true
+                },
+                {
+                  "id": "c1-s11-w3",
+                  "word": "onto",
+                  "start": 22.1,
+                  "end": 22.6,
+                  "important": false
+                },
+                {
+                  "id": "c1-s11-w4",
+                  "word": "the",
+                  "start": 22.6,
+                  "end": 23.1,
+                  "important": false
+                },
+                {
+                  "id": "c1-s11-w5",
+                  "word": "speaker.",
+                  "start": 23.1,
+                  "end": 23.6,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c1-s12",
+              "start": 23.6,
+              "end": 26.7,
+              "text": "That doubled our watch-through rate",
+              "words": [
+                {
+                  "id": "c1-s12-w1",
+                  "word": "That",
+                  "start": 23.6,
+                  "end": 24.22,
+                  "important": false
+                },
+                {
+                  "id": "c1-s12-w2",
+                  "word": "doubled",
+                  "start": 24.22,
+                  "end": 24.84,
+                  "important": true
+                },
+                {
+                  "id": "c1-s12-w3",
+                  "word": "our",
+                  "start": 24.84,
+                  "end": 25.46,
+                  "important": false
+                },
+                {
+                  "id": "c1-s12-w4",
+                  "word": "watch-through",
+                  "start": 25.46,
+                  "end": 26.08,
+                  "important": true
+                },
+                {
+                  "id": "c1-s12-w5",
+                  "word": "rate",
+                  "start": 26.08,
+                  "end": 26.7,
+                  "important": false
+                }
+              ]
+            },
+            {
+              "id": "c1-s13",
+              "start": 26.7,
+              "end": 29.8,
+              "text": "across Reels, Shorts, and TikTok.",
+              "words": [
+                {
+                  "id": "c1-s13-w1",
+                  "word": "across",
+                  "start": 26.7,
+                  "end": 27.32,
+                  "important": false
+                },
+                {
+                  "id": "c1-s13-w2",
+                  "word": "Reels,",
+                  "start": 27.32,
+                  "end": 27.94,
+                  "important": true
+                },
+                {
+                  "id": "c1-s13-w3",
+                  "word": "Shorts,",
+                  "start": 27.94,
+                  "end": 28.56,
+                  "important": true
+                },
+                {
+                  "id": "c1-s13-w4",
+                  "word": "and",
+                  "start": 28.56,
+                  "end": 29.18,
+                  "important": false
+                },
+                {
+                  "id": "c1-s13-w5",
+                  "word": "TikTok.",
+                  "start": 29.18,
+                  "end": 29.8,
+                  "important": true
+                }
+              ]
+            }
+          ],
+          "framingMode": "split-gameplay",
+          "faceCenterX": 0.5,
+          "autoZoom": true,
+          "backgroundVideoId": "cyber_parkour",
+          "transitionEffect": "hook-zoom",
+          "exportFormat": "reels",
+          "exportedPath": "/app/applet/data/exports/proj_mwj61wx6_l12p_clip_1_mwj63ccj_1080p.mp4",
+          "exportedAt": "2026-11-16T11:17:07.587Z"
+        },
+        {
+          "id": "clip_2_mwj63ccj",
+          "index": 2,
+          "title": "Why Viewers Swipe In 2 Seconds",
+          "hook": "Stop posting 60-minute podcasts without cutting them into vertical hooks first.",
+          "reasoning": "Tight, punchy problem-focused clip explaining the exact 2-second drop-off mechanism that triggers immediate swipes.",
+          "language": "en",
+          "startTime": 0,
+          "endTime": 16,
+          "trimStart": 0,
+          "trimEnd": 16,
+          "viralScore": {
+            "overall": 92,
+            "hookStrength": 95,
+            "engagementPotential": 91,
+            "emotionalImpact": 87,
+            "pacing": 95,
+            "contentQuality": 92
+          },
+          "captionStyle": "hormozi",
+          "captions": [
+            {
+              "id": "c2-s1",
+              "start": 0,
+              "end": 2.1,
+              "text": "Stop posting 60-minute podcasts",
+              "words": [
+                {
+                  "id": "c2-s1-w1",
+                  "word": "Stop",
+                  "start": 0,
+                  "end": 0.53,
+                  "important": true
+                },
+                {
+                  "id": "c2-s1-w2",
+                  "word": "posting",
+                  "start": 0.53,
+                  "end": 1.05,
+                  "important": false
+                },
+                {
+                  "id": "c2-s1-w3",
+                  "word": "60-minute",
+                  "start": 1.05,
+                  "end": 1.58,
+                  "important": false
+                },
+                {
+                  "id": "c2-s1-w4",
+                  "word": "podcasts",
+                  "start": 1.58,
+                  "end": 2.1,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c2-s2",
+              "start": 2.1,
+              "end": 4.3,
+              "text": "without vertical hooks first.",
+              "words": [
+                {
+                  "id": "c2-s2-w1",
+                  "word": "without",
+                  "start": 2.1,
+                  "end": 2.65,
+                  "important": false
+                },
+                {
+                  "id": "c2-s2-w2",
+                  "word": "vertical",
+                  "start": 2.65,
+                  "end": 3.2,
+                  "important": true
+                },
+                {
+                  "id": "c2-s2-w3",
+                  "word": "hooks",
+                  "start": 3.2,
+                  "end": 3.75,
+                  "important": true
+                },
+                {
+                  "id": "c2-s2-w4",
+                  "word": "first.",
+                  "start": 3.75,
+                  "end": 4.3,
+                  "important": false
+                }
+              ]
+            },
+            {
+              "id": "c2-s3",
+              "start": 4.3,
+              "end": 5.8,
+              "text": "Here is the brutal truth",
+              "words": [
+                {
+                  "id": "c2-s3-w1",
+                  "word": "Here",
+                  "start": 4.3,
+                  "end": 4.6,
+                  "important": false
+                },
+                {
+                  "id": "c2-s3-w2",
+                  "word": "is",
+                  "start": 4.6,
+                  "end": 4.9,
+                  "important": false
+                },
+                {
+                  "id": "c2-s3-w3",
+                  "word": "the",
+                  "start": 4.9,
+                  "end": 5.2,
+                  "important": false
+                },
+                {
+                  "id": "c2-s3-w4",
+                  "word": "brutal",
+                  "start": 5.2,
+                  "end": 5.5,
+                  "important": true
+                },
+                {
+                  "id": "c2-s3-w5",
+                  "word": "truth",
+                  "start": 5.5,
+                  "end": 5.8,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c2-s4",
+              "start": 5.8,
+              "end": 7.3,
+              "text": "most creators ignore.",
+              "words": [
+                {
+                  "id": "c2-s4-w1",
+                  "word": "most",
+                  "start": 5.8,
+                  "end": 6.3,
+                  "important": false
+                },
+                {
+                  "id": "c2-s4-w2",
+                  "word": "creators",
+                  "start": 6.3,
+                  "end": 6.8,
+                  "important": true
+                },
+                {
+                  "id": "c2-s4-w3",
+                  "word": "ignore.",
+                  "start": 6.8,
+                  "end": 7.3,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c2-s5",
+              "start": 7.3,
+              "end": 9.3,
+              "text": "90% of your audience",
+              "words": [
+                {
+                  "id": "c2-s5-w1",
+                  "word": "90%",
+                  "start": 7.3,
+                  "end": 7.8,
+                  "important": true
+                },
+                {
+                  "id": "c2-s5-w2",
+                  "word": "of",
+                  "start": 7.8,
+                  "end": 8.3,
+                  "important": false
+                },
+                {
+                  "id": "c2-s5-w3",
+                  "word": "your",
+                  "start": 8.3,
+                  "end": 8.8,
+                  "important": false
+                },
+                {
+                  "id": "c2-s5-w4",
+                  "word": "audience",
+                  "start": 8.8,
+                  "end": 9.3,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c2-s6",
+              "start": 9.3,
+              "end": 11.4,
+              "text": "decides in two seconds.",
+              "words": [
+                {
+                  "id": "c2-s6-w1",
+                  "word": "decides",
+                  "start": 9.3,
+                  "end": 9.83,
+                  "important": false
+                },
+                {
+                  "id": "c2-s6-w2",
+                  "word": "in",
+                  "start": 9.83,
+                  "end": 10.35,
+                  "important": false
+                },
+                {
+                  "id": "c2-s6-w3",
+                  "word": "two",
+                  "start": 10.35,
+                  "end": 10.88,
+                  "important": true
+                },
+                {
+                  "id": "c2-s6-w4",
+                  "word": "seconds.",
+                  "start": 10.88,
+                  "end": 11.4,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c2-s7",
+              "start": 11.4,
+              "end": 13.7,
+              "text": "If your opening sounds slow,",
+              "words": [
+                {
+                  "id": "c2-s7-w1",
+                  "word": "If",
+                  "start": 11.4,
+                  "end": 11.86,
+                  "important": false
+                },
+                {
+                  "id": "c2-s7-w2",
+                  "word": "your",
+                  "start": 11.86,
+                  "end": 12.32,
+                  "important": false
+                },
+                {
+                  "id": "c2-s7-w3",
+                  "word": "opening",
+                  "start": 12.32,
+                  "end": 12.78,
+                  "important": true
+                },
+                {
+                  "id": "c2-s7-w4",
+                  "word": "sounds",
+                  "start": 12.78,
+                  "end": 13.24,
+                  "important": false
+                },
+                {
+                  "id": "c2-s7-w5",
+                  "word": "slow,",
+                  "start": 13.24,
+                  "end": 13.7,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c2-s8",
+              "start": 13.7,
+              "end": 16,
+              "text": "viewers swipe immediately.",
+              "words": [
+                {
+                  "id": "c2-s8-w1",
+                  "word": "viewers",
+                  "start": 13.7,
+                  "end": 14.47,
+                  "important": false
+                },
+                {
+                  "id": "c2-s8-w2",
+                  "word": "swipe",
+                  "start": 14.47,
+                  "end": 15.23,
+                  "important": true
+                },
+                {
+                  "id": "c2-s8-w3",
+                  "word": "immediately.",
+                  "start": 15.23,
+                  "end": 16,
+                  "important": true
+                }
+              ]
+            }
+          ],
+          "framingMode": "auto-face",
+          "faceCenterX": 0.5,
+          "autoZoom": true,
+          "backgroundVideoId": "none",
+          "transitionEffect": "hook-zoom",
+          "exportFormat": "shorts"
+        },
+        {
+          "id": "clip_3_mwj63ccj",
+          "index": 3,
+          "title": "The Brutal Truth Creators Ignore",
+          "hook": "Here is the brutal truth most creators ignore.",
+          "reasoning": "Starts with a high-curiosity truth bomb, diagnoses the slow-intro mistake, and delivers the complete solution plus proof.",
+          "language": "en",
+          "startTime": 4.3,
+          "endTime": 29.8,
+          "trimStart": 4.3,
+          "trimEnd": 29.8,
+          "viralScore": {
+            "overall": 92,
+            "hookStrength": 92,
+            "engagementPotential": 93,
+            "emotionalImpact": 89,
+            "pacing": 91,
+            "contentQuality": 94
+          },
+          "captionStyle": "hormozi",
+          "captions": [
+            {
+              "id": "c3-s1",
+              "start": 4.3,
+              "end": 5.8,
+              "text": "Here is the brutal truth",
+              "words": [
+                {
+                  "id": "c3-s1-w1",
+                  "word": "Here",
+                  "start": 4.3,
+                  "end": 4.6,
+                  "important": false
+                },
+                {
+                  "id": "c3-s1-w2",
+                  "word": "is",
+                  "start": 4.6,
+                  "end": 4.9,
+                  "important": false
+                },
+                {
+                  "id": "c3-s1-w3",
+                  "word": "the",
+                  "start": 4.9,
+                  "end": 5.2,
+                  "important": false
+                },
+                {
+                  "id": "c3-s1-w4",
+                  "word": "brutal",
+                  "start": 5.2,
+                  "end": 5.5,
+                  "important": true
+                },
+                {
+                  "id": "c3-s1-w5",
+                  "word": "truth",
+                  "start": 5.5,
+                  "end": 5.8,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c3-s2",
+              "start": 5.8,
+              "end": 7.3,
+              "text": "most creators ignore.",
+              "words": [
+                {
+                  "id": "c3-s2-w1",
+                  "word": "most",
+                  "start": 5.8,
+                  "end": 6.3,
+                  "important": false
+                },
+                {
+                  "id": "c3-s2-w2",
+                  "word": "creators",
+                  "start": 6.3,
+                  "end": 6.8,
+                  "important": true
+                },
+                {
+                  "id": "c3-s2-w3",
+                  "word": "ignore.",
+                  "start": 6.8,
+                  "end": 7.3,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c3-s3",
+              "start": 7.3,
+              "end": 9.3,
+              "text": "90% of your audience",
+              "words": [
+                {
+                  "id": "c3-s3-w1",
+                  "word": "90%",
+                  "start": 7.3,
+                  "end": 7.8,
+                  "important": true
+                },
+                {
+                  "id": "c3-s3-w2",
+                  "word": "of",
+                  "start": 7.8,
+                  "end": 8.3,
+                  "important": false
+                },
+                {
+                  "id": "c3-s3-w3",
+                  "word": "your",
+                  "start": 8.3,
+                  "end": 8.8,
+                  "important": false
+                },
+                {
+                  "id": "c3-s3-w4",
+                  "word": "audience",
+                  "start": 8.8,
+                  "end": 9.3,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c3-s4",
+              "start": 9.3,
+              "end": 11.4,
+              "text": "decides in two seconds.",
+              "words": [
+                {
+                  "id": "c3-s4-w1",
+                  "word": "decides",
+                  "start": 9.3,
+                  "end": 9.83,
+                  "important": true
+                },
+                {
+                  "id": "c3-s4-w2",
+                  "word": "in",
+                  "start": 9.83,
+                  "end": 10.35,
+                  "important": false
+                },
+                {
+                  "id": "c3-s4-w3",
+                  "word": "two",
+                  "start": 10.35,
+                  "end": 10.88,
+                  "important": true
+                },
+                {
+                  "id": "c3-s4-w4",
+                  "word": "seconds.",
+                  "start": 10.88,
+                  "end": 11.4,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c3-s5",
+              "start": 11.4,
+              "end": 13.7,
+              "text": "If your opening sounds slow,",
+              "words": [
+                {
+                  "id": "c3-s5-w1",
+                  "word": "If",
+                  "start": 11.4,
+                  "end": 11.86,
+                  "important": false
+                },
+                {
+                  "id": "c3-s5-w2",
+                  "word": "your",
+                  "start": 11.86,
+                  "end": 12.32,
+                  "important": false
+                },
+                {
+                  "id": "c3-s5-w3",
+                  "word": "opening",
+                  "start": 12.32,
+                  "end": 12.78,
+                  "important": true
+                },
+                {
+                  "id": "c3-s5-w4",
+                  "word": "sounds",
+                  "start": 12.78,
+                  "end": 13.24,
+                  "important": false
+                },
+                {
+                  "id": "c3-s5-w5",
+                  "word": "slow,",
+                  "start": 13.24,
+                  "end": 13.7,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c3-s6",
+              "start": 13.7,
+              "end": 16,
+              "text": "viewers swipe immediately.",
+              "words": [
+                {
+                  "id": "c3-s6-w1",
+                  "word": "viewers",
+                  "start": 13.7,
+                  "end": 14.47,
+                  "important": false
+                },
+                {
+                  "id": "c3-s6-w2",
+                  "word": "swipe",
+                  "start": 14.47,
+                  "end": 15.23,
+                  "important": true
+                },
+                {
+                  "id": "c3-s6-w3",
+                  "word": "immediately.",
+                  "start": 15.23,
+                  "end": 16,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c3-s7",
+              "start": 16,
+              "end": 18.5,
+              "text": "Open with a contrarian takeaway,",
+              "words": [
+                {
+                  "id": "c3-s7-w1",
+                  "word": "Open",
+                  "start": 16,
+                  "end": 16.5,
+                  "important": false
+                },
+                {
+                  "id": "c3-s7-w2",
+                  "word": "with",
+                  "start": 16.5,
+                  "end": 17,
+                  "important": false
+                },
+                {
+                  "id": "c3-s7-w3",
+                  "word": "a",
+                  "start": 17,
+                  "end": 17.5,
+                  "important": false
+                },
+                {
+                  "id": "c3-s7-w4",
+                  "word": "contrarian",
+                  "start": 17.5,
+                  "end": 18,
+                  "important": true
+                },
+                {
+                  "id": "c3-s7-w5",
+                  "word": "takeaway,",
+                  "start": 18,
+                  "end": 18.5,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c3-s8",
+              "start": 18.5,
+              "end": 21.1,
+              "text": "highlight words with dynamic captions,",
+              "words": [
+                {
+                  "id": "c3-s8-w1",
+                  "word": "highlight",
+                  "start": 18.5,
+                  "end": 19.02,
+                  "important": false
+                },
+                {
+                  "id": "c3-s8-w2",
+                  "word": "words",
+                  "start": 19.02,
+                  "end": 19.54,
+                  "important": false
+                },
+                {
+                  "id": "c3-s8-w3",
+                  "word": "with",
+                  "start": 19.54,
+                  "end": 20.06,
+                  "important": false
+                },
+                {
+                  "id": "c3-s8-w4",
+                  "word": "dynamic",
+                  "start": 20.06,
+                  "end": 20.58,
+                  "important": true
+                },
+                {
+                  "id": "c3-s8-w5",
+                  "word": "captions,",
+                  "start": 20.58,
+                  "end": 21.1,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c3-s9",
+              "start": 21.1,
+              "end": 23.6,
+              "text": "and lock onto the speaker.",
+              "words": [
+                {
+                  "id": "c3-s9-w1",
+                  "word": "and",
+                  "start": 21.1,
+                  "end": 21.6,
+                  "important": false
+                },
+                {
+                  "id": "c3-s9-w2",
+                  "word": "lock",
+                  "start": 21.6,
+                  "end": 22.1,
+                  "important": true
+                },
+                {
+                  "id": "c3-s9-w3",
+                  "word": "onto",
+                  "start": 22.1,
+                  "end": 22.6,
+                  "important": false
+                },
+                {
+                  "id": "c3-s9-w4",
+                  "word": "the",
+                  "start": 22.6,
+                  "end": 23.1,
+                  "important": false
+                },
+                {
+                  "id": "c3-s9-w5",
+                  "word": "speaker.",
+                  "start": 23.1,
+                  "end": 23.6,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c3-s10",
+              "start": 23.6,
+              "end": 26.7,
+              "text": "That single shift doubled",
+              "words": [
+                {
+                  "id": "c3-s10-w1",
+                  "word": "That",
+                  "start": 23.6,
+                  "end": 24.38,
+                  "important": false
+                },
+                {
+                  "id": "c3-s10-w2",
+                  "word": "single",
+                  "start": 24.38,
+                  "end": 25.15,
+                  "important": true
+                },
+                {
+                  "id": "c3-s10-w3",
+                  "word": "shift",
+                  "start": 25.15,
+                  "end": 25.93,
+                  "important": false
+                },
+                {
+                  "id": "c3-s10-w4",
+                  "word": "doubled",
+                  "start": 25.93,
+                  "end": 26.7,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c3-s11",
+              "start": 26.7,
+              "end": 29.8,
+              "text": "watch-through rates in 30 days.",
+              "words": [
+                {
+                  "id": "c3-s11-w1",
+                  "word": "watch-through",
+                  "start": 26.7,
+                  "end": 27.32,
+                  "important": true
+                },
+                {
+                  "id": "c3-s11-w2",
+                  "word": "rates",
+                  "start": 27.32,
+                  "end": 27.94,
+                  "important": false
+                },
+                {
+                  "id": "c3-s11-w3",
+                  "word": "in",
+                  "start": 27.94,
+                  "end": 28.56,
+                  "important": false
+                },
+                {
+                  "id": "c3-s11-w4",
+                  "word": "30",
+                  "start": 28.56,
+                  "end": 29.18,
+                  "important": true
+                },
+                {
+                  "id": "c3-s11-w5",
+                  "word": "days.",
+                  "start": 29.18,
+                  "end": 29.8,
+                  "important": true
+                }
+              ]
+            }
+          ],
+          "framingMode": "auto-face",
+          "faceCenterX": 0.5,
+          "autoZoom": true,
+          "backgroundVideoId": "none",
+          "transitionEffect": "hook-zoom",
+          "exportFormat": "tiktok"
+        },
+        {
+          "id": "clip_4_mwj63ccj",
+          "index": 4,
+          "title": "90% Decide In Two Seconds",
+          "hook": "90% of your audience decides whether to stay in the first two seconds.",
+          "reasoning": "Leads with a striking data point and transitions directly into the three tactical editing changes creators can apply immediately.",
+          "language": "en",
+          "startTime": 7.3,
+          "endTime": 23.6,
+          "trimStart": 7.3,
+          "trimEnd": 23.6,
+          "viralScore": {
+            "overall": 91,
+            "hookStrength": 93,
+            "engagementPotential": 90,
+            "emotionalImpact": 84,
+            "pacing": 94,
+            "contentQuality": 93
+          },
+          "captionStyle": "hormozi",
+          "captions": [
+            {
+              "id": "c4-s1",
+              "start": 7.3,
+              "end": 9.3,
+              "text": "90% of your audience",
+              "words": [
+                {
+                  "id": "c4-s1-w1",
+                  "word": "90%",
+                  "start": 7.3,
+                  "end": 7.8,
+                  "important": true
+                },
+                {
+                  "id": "c4-s1-w2",
+                  "word": "of",
+                  "start": 7.8,
+                  "end": 8.3,
+                  "important": false
+                },
+                {
+                  "id": "c4-s1-w3",
+                  "word": "your",
+                  "start": 8.3,
+                  "end": 8.8,
+                  "important": false
+                },
+                {
+                  "id": "c4-s1-w4",
+                  "word": "audience",
+                  "start": 8.8,
+                  "end": 9.3,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c4-s2",
+              "start": 9.3,
+              "end": 11.4,
+              "text": "decides in two seconds.",
+              "words": [
+                {
+                  "id": "c4-s2-w1",
+                  "word": "decides",
+                  "start": 9.3,
+                  "end": 9.83,
+                  "important": true
+                },
+                {
+                  "id": "c4-s2-w2",
+                  "word": "in",
+                  "start": 9.83,
+                  "end": 10.35,
+                  "important": false
+                },
+                {
+                  "id": "c4-s2-w3",
+                  "word": "two",
+                  "start": 10.35,
+                  "end": 10.88,
+                  "important": true
+                },
+                {
+                  "id": "c4-s2-w4",
+                  "word": "seconds.",
+                  "start": 10.88,
+                  "end": 11.4,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c4-s3",
+              "start": 11.4,
+              "end": 13.7,
+              "text": "A slow opening line",
+              "words": [
+                {
+                  "id": "c4-s3-w1",
+                  "word": "A",
+                  "start": 11.4,
+                  "end": 11.97,
+                  "important": false
+                },
+                {
+                  "id": "c4-s3-w2",
+                  "word": "slow",
+                  "start": 11.97,
+                  "end": 12.55,
+                  "important": true
+                },
+                {
+                  "id": "c4-s3-w3",
+                  "word": "opening",
+                  "start": 12.55,
+                  "end": 13.13,
+                  "important": true
+                },
+                {
+                  "id": "c4-s3-w4",
+                  "word": "line",
+                  "start": 13.13,
+                  "end": 13.7,
+                  "important": false
+                }
+              ]
+            },
+            {
+              "id": "c4-s4",
+              "start": 13.7,
+              "end": 16,
+              "text": "makes viewers swipe immediately.",
+              "words": [
+                {
+                  "id": "c4-s4-w1",
+                  "word": "makes",
+                  "start": 13.7,
+                  "end": 14.27,
+                  "important": false
+                },
+                {
+                  "id": "c4-s4-w2",
+                  "word": "viewers",
+                  "start": 14.27,
+                  "end": 14.85,
+                  "important": false
+                },
+                {
+                  "id": "c4-s4-w3",
+                  "word": "swipe",
+                  "start": 14.85,
+                  "end": 15.43,
+                  "important": true
+                },
+                {
+                  "id": "c4-s4-w4",
+                  "word": "immediately.",
+                  "start": 15.43,
+                  "end": 16,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c4-s5",
+              "start": 16,
+              "end": 18.5,
+              "text": "Open with a contrarian takeaway,",
+              "words": [
+                {
+                  "id": "c4-s5-w1",
+                  "word": "Open",
+                  "start": 16,
+                  "end": 16.5,
+                  "important": false
+                },
+                {
+                  "id": "c4-s5-w2",
+                  "word": "with",
+                  "start": 16.5,
+                  "end": 17,
+                  "important": false
+                },
+                {
+                  "id": "c4-s5-w3",
+                  "word": "a",
+                  "start": 17,
+                  "end": 17.5,
+                  "important": false
+                },
+                {
+                  "id": "c4-s5-w4",
+                  "word": "contrarian",
+                  "start": 17.5,
+                  "end": 18,
+                  "important": true
+                },
+                {
+                  "id": "c4-s5-w5",
+                  "word": "takeaway,",
+                  "start": 18,
+                  "end": 18.5,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c4-s6",
+              "start": 18.5,
+              "end": 21.1,
+              "text": "add dynamic power-word captions,",
+              "words": [
+                {
+                  "id": "c4-s6-w1",
+                  "word": "add",
+                  "start": 18.5,
+                  "end": 19.15,
+                  "important": false
+                },
+                {
+                  "id": "c4-s6-w2",
+                  "word": "dynamic",
+                  "start": 19.15,
+                  "end": 19.8,
+                  "important": true
+                },
+                {
+                  "id": "c4-s6-w3",
+                  "word": "power-word",
+                  "start": 19.8,
+                  "end": 20.45,
+                  "important": false
+                },
+                {
+                  "id": "c4-s6-w4",
+                  "word": "captions,",
+                  "start": 20.45,
+                  "end": 21.1,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c4-s7",
+              "start": 21.1,
+              "end": 23.6,
+              "text": "and lock onto the speaker.",
+              "words": [
+                {
+                  "id": "c4-s7-w1",
+                  "word": "and",
+                  "start": 21.1,
+                  "end": 21.6,
+                  "important": false
+                },
+                {
+                  "id": "c4-s7-w2",
+                  "word": "lock",
+                  "start": 21.6,
+                  "end": 22.1,
+                  "important": true
+                },
+                {
+                  "id": "c4-s7-w3",
+                  "word": "onto",
+                  "start": 22.1,
+                  "end": 22.6,
+                  "important": false
+                },
+                {
+                  "id": "c4-s7-w4",
+                  "word": "the",
+                  "start": 22.6,
+                  "end": 23.1,
+                  "important": false
+                },
+                {
+                  "id": "c4-s7-w5",
+                  "word": "speaker.",
+                  "start": 23.1,
+                  "end": 23.6,
+                  "important": true
+                }
+              ]
+            }
+          ],
+          "framingMode": "auto-face",
+          "faceCenterX": 0.5,
+          "autoZoom": true,
+          "backgroundVideoId": "none",
+          "transitionEffect": "hook-zoom",
+          "exportFormat": "reels"
+        },
+        {
+          "id": "clip_5_mwj63ccj",
+          "index": 5,
+          "title": "How We Doubled Watch-Through Rate",
+          "hook": "Instead, open with a bold, contrarian takeaway, highlight every power word with dynamic captions, and lock the camera onto the speaker.",
+          "reasoning": "Actionable how-to clip pairing concrete editing tactics with a 30-day multi-platform result and a framework loop.",
+          "language": "en",
+          "startTime": 16,
+          "endTime": 35.5,
+          "trimStart": 16,
+          "trimEnd": 35.5,
+          "viralScore": {
+            "overall": 90,
+            "hookStrength": 89,
+            "engagementPotential": 92,
+            "emotionalImpact": 85,
+            "pacing": 91,
+            "contentQuality": 94
+          },
+          "captionStyle": "hormozi",
+          "captions": [
+            {
+              "id": "c5-s1",
+              "start": 16,
+              "end": 18.5,
+              "text": "Open with a contrarian takeaway,",
+              "words": [
+                {
+                  "id": "c5-s1-w1",
+                  "word": "Open",
+                  "start": 16,
+                  "end": 16.5,
+                  "important": false
+                },
+                {
+                  "id": "c5-s1-w2",
+                  "word": "with",
+                  "start": 16.5,
+                  "end": 17,
+                  "important": false
+                },
+                {
+                  "id": "c5-s1-w3",
+                  "word": "a",
+                  "start": 17,
+                  "end": 17.5,
+                  "important": false
+                },
+                {
+                  "id": "c5-s1-w4",
+                  "word": "contrarian",
+                  "start": 17.5,
+                  "end": 18,
+                  "important": true
+                },
+                {
+                  "id": "c5-s1-w5",
+                  "word": "takeaway,",
+                  "start": 18,
+                  "end": 18.5,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c5-s2",
+              "start": 18.5,
+              "end": 21.1,
+              "text": "highlight words with dynamic captions,",
+              "words": [
+                {
+                  "id": "c5-s2-w1",
+                  "word": "highlight",
+                  "start": 18.5,
+                  "end": 19.02,
+                  "important": false
+                },
+                {
+                  "id": "c5-s2-w2",
+                  "word": "words",
+                  "start": 19.02,
+                  "end": 19.54,
+                  "important": false
+                },
+                {
+                  "id": "c5-s2-w3",
+                  "word": "with",
+                  "start": 19.54,
+                  "end": 20.06,
+                  "important": false
+                },
+                {
+                  "id": "c5-s2-w4",
+                  "word": "dynamic",
+                  "start": 20.06,
+                  "end": 20.58,
+                  "important": true
+                },
+                {
+                  "id": "c5-s2-w5",
+                  "word": "captions,",
+                  "start": 20.58,
+                  "end": 21.1,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c5-s3",
+              "start": 21.1,
+              "end": 23.6,
+              "text": "and lock onto the speaker.",
+              "words": [
+                {
+                  "id": "c5-s3-w1",
+                  "word": "and",
+                  "start": 21.1,
+                  "end": 21.6,
+                  "important": false
+                },
+                {
+                  "id": "c5-s3-w2",
+                  "word": "lock",
+                  "start": 21.6,
+                  "end": 22.1,
+                  "important": true
+                },
+                {
+                  "id": "c5-s3-w3",
+                  "word": "onto",
+                  "start": 22.1,
+                  "end": 22.6,
+                  "important": false
+                },
+                {
+                  "id": "c5-s3-w4",
+                  "word": "the",
+                  "start": 22.6,
+                  "end": 23.1,
+                  "important": false
+                },
+                {
+                  "id": "c5-s3-w5",
+                  "word": "speaker.",
+                  "start": 23.1,
+                  "end": 23.6,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c5-s4",
+              "start": 23.6,
+              "end": 26.7,
+              "text": "That doubled our watch-through rate",
+              "words": [
+                {
+                  "id": "c5-s4-w1",
+                  "word": "That",
+                  "start": 23.6,
+                  "end": 24.22,
+                  "important": false
+                },
+                {
+                  "id": "c5-s4-w2",
+                  "word": "doubled",
+                  "start": 24.22,
+                  "end": 24.84,
+                  "important": true
+                },
+                {
+                  "id": "c5-s4-w3",
+                  "word": "our",
+                  "start": 24.84,
+                  "end": 25.46,
+                  "important": false
+                },
+                {
+                  "id": "c5-s4-w4",
+                  "word": "watch-through",
+                  "start": 25.46,
+                  "end": 26.08,
+                  "important": true
+                },
+                {
+                  "id": "c5-s4-w5",
+                  "word": "rate",
+                  "start": 26.08,
+                  "end": 26.7,
+                  "important": false
+                }
+              ]
+            },
+            {
+              "id": "c5-s5",
+              "start": 26.7,
+              "end": 29.8,
+              "text": "on Reels, Shorts, and TikTok.",
+              "words": [
+                {
+                  "id": "c5-s5-w1",
+                  "word": "on",
+                  "start": 26.7,
+                  "end": 27.32,
+                  "important": false
+                },
+                {
+                  "id": "c5-s5-w2",
+                  "word": "Reels,",
+                  "start": 27.32,
+                  "end": 27.94,
+                  "important": true
+                },
+                {
+                  "id": "c5-s5-w3",
+                  "word": "Shorts,",
+                  "start": 27.94,
+                  "end": 28.56,
+                  "important": true
+                },
+                {
+                  "id": "c5-s5-w4",
+                  "word": "and",
+                  "start": 28.56,
+                  "end": 29.18,
+                  "important": false
+                },
+                {
+                  "id": "c5-s5-w5",
+                  "word": "TikTok.",
+                  "start": 29.18,
+                  "end": 29.8,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c5-s6",
+              "start": 29.8,
+              "end": 32.6,
+              "text": "Let's break down the exact",
+              "words": [
+                {
+                  "id": "c5-s6-w1",
+                  "word": "Let's",
+                  "start": 29.8,
+                  "end": 30.36,
+                  "important": false
+                },
+                {
+                  "id": "c5-s6-w2",
+                  "word": "break",
+                  "start": 30.36,
+                  "end": 30.92,
+                  "important": true
+                },
+                {
+                  "id": "c5-s6-w3",
+                  "word": "down",
+                  "start": 30.92,
+                  "end": 31.48,
+                  "important": false
+                },
+                {
+                  "id": "c5-s6-w4",
+                  "word": "the",
+                  "start": 31.48,
+                  "end": 32.04,
+                  "important": false
+                },
+                {
+                  "id": "c5-s6-w5",
+                  "word": "exact",
+                  "start": 32.04,
+                  "end": 32.6,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c5-s7",
+              "start": 32.6,
+              "end": 35.5,
+              "text": "three-step retention framework.",
+              "words": [
+                {
+                  "id": "c5-s7-w1",
+                  "word": "three-step",
+                  "start": 32.6,
+                  "end": 33.57,
+                  "important": true
+                },
+                {
+                  "id": "c5-s7-w2",
+                  "word": "retention",
+                  "start": 33.57,
+                  "end": 34.53,
+                  "important": true
+                },
+                {
+                  "id": "c5-s7-w3",
+                  "word": "framework.",
+                  "start": 34.53,
+                  "end": 35.5,
+                  "important": true
+                }
+              ]
+            }
+          ],
+          "framingMode": "auto-face",
+          "faceCenterX": 0.5,
+          "autoZoom": true,
+          "backgroundVideoId": "none",
+          "transitionEffect": "hook-zoom",
+          "exportFormat": "shorts"
+        },
+        {
+          "id": "clip_6_mwj63cck",
+          "index": 6,
+          "title": "The 3-Step Retention Framework",
+          "hook": "That single shift doubled our watch-through rate on Instagram Reels, YouTube Shorts, and TikTok in 30 days.",
+          "reasoning": "Short, high-impact result-first hook that teases a proven three-step framework to drive comments, saves, and profile clicks.",
+          "language": "en",
+          "startTime": 23.6,
+          "endTime": 35.5,
+          "trimStart": 23.6,
+          "trimEnd": 35.5,
+          "viralScore": {
+            "overall": 89,
+            "hookStrength": 91,
+            "engagementPotential": 89,
+            "emotionalImpact": 83,
+            "pacing": 93,
+            "contentQuality": 90
+          },
+          "captionStyle": "hormozi",
+          "captions": [
+            {
+              "id": "c6-s1",
+              "start": 23.6,
+              "end": 26.7,
+              "text": "That single shift doubled",
+              "words": [
+                {
+                  "id": "c6-s1-w1",
+                  "word": "That",
+                  "start": 23.6,
+                  "end": 24.38,
+                  "important": false
+                },
+                {
+                  "id": "c6-s1-w2",
+                  "word": "single",
+                  "start": 24.38,
+                  "end": 25.15,
+                  "important": true
+                },
+                {
+                  "id": "c6-s1-w3",
+                  "word": "shift",
+                  "start": 25.15,
+                  "end": 25.93,
+                  "important": false
+                },
+                {
+                  "id": "c6-s1-w4",
+                  "word": "doubled",
+                  "start": 25.93,
+                  "end": 26.7,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c6-s2",
+              "start": 26.7,
+              "end": 29.8,
+              "text": "watch-through rates in 30 days.",
+              "words": [
+                {
+                  "id": "c6-s2-w1",
+                  "word": "watch-through",
+                  "start": 26.7,
+                  "end": 27.32,
+                  "important": true
+                },
+                {
+                  "id": "c6-s2-w2",
+                  "word": "rates",
+                  "start": 27.32,
+                  "end": 27.94,
+                  "important": false
+                },
+                {
+                  "id": "c6-s2-w3",
+                  "word": "in",
+                  "start": 27.94,
+                  "end": 28.56,
+                  "important": false
+                },
+                {
+                  "id": "c6-s2-w4",
+                  "word": "30",
+                  "start": 28.56,
+                  "end": 29.18,
+                  "important": true
+                },
+                {
+                  "id": "c6-s2-w5",
+                  "word": "days.",
+                  "start": 29.18,
+                  "end": 29.8,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c6-s3",
+              "start": 29.8,
+              "end": 32.6,
+              "text": "Here is the exact three-step",
+              "words": [
+                {
+                  "id": "c6-s3-w1",
+                  "word": "Here",
+                  "start": 29.8,
+                  "end": 30.36,
+                  "important": false
+                },
+                {
+                  "id": "c6-s3-w2",
+                  "word": "is",
+                  "start": 30.36,
+                  "end": 30.92,
+                  "important": false
+                },
+                {
+                  "id": "c6-s3-w3",
+                  "word": "the",
+                  "start": 30.92,
+                  "end": 31.48,
+                  "important": false
+                },
+                {
+                  "id": "c6-s3-w4",
+                  "word": "exact",
+                  "start": 31.48,
+                  "end": 32.04,
+                  "important": true
+                },
+                {
+                  "id": "c6-s3-w5",
+                  "word": "three-step",
+                  "start": 32.04,
+                  "end": 32.6,
+                  "important": true
+                }
+              ]
+            },
+            {
+              "id": "c6-s4",
+              "start": 32.6,
+              "end": 35.5,
+              "text": "retention framework top creators use.",
+              "words": [
+                {
+                  "id": "c6-s4-w1",
+                  "word": "retention",
+                  "start": 32.6,
+                  "end": 33.18,
+                  "important": true
+                },
+                {
+                  "id": "c6-s4-w2",
+                  "word": "framework",
+                  "start": 33.18,
+                  "end": 33.76,
+                  "important": true
+                },
+                {
+                  "id": "c6-s4-w3",
+                  "word": "top",
+                  "start": 33.76,
+                  "end": 34.34,
+                  "important": true
+                },
+                {
+                  "id": "c6-s4-w4",
+                  "word": "creators",
+                  "start": 34.34,
+                  "end": 34.92,
+                  "important": false
+                },
+                {
+                  "id": "c6-s4-w5",
+                  "word": "use.",
+                  "start": 34.92,
+                  "end": 35.5,
+                  "important": false
+                }
+              ]
+            }
+          ],
+          "framingMode": "auto-face",
+          "faceCenterX": 0.5,
+          "autoZoom": true,
+          "backgroundVideoId": "none",
+          "transitionEffect": "hook-zoom",
+          "exportFormat": "tiktok"
+        }
+      ],
+      "createdAt": "2026-11-16T11:14:29.226Z",
+      "updatedAt": "2026-11-16T11:17:07.588Z",
+      "thumbnailPath": "/app/applet/data/thumbs/proj_mwj61wx6_l12p.jpg"
+    }
+  ]
+}

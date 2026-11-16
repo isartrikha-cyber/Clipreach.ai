@@ -1,0 +1,6 @@
+{
+  "name": "ClipReach AI",
+  "description": "Free AI video repurposing platform that converts long-form videos into viral 9:16 short clips with animated captions, smart reframing, and viral scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
